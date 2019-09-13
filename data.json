@@ -23,6 +23,48 @@
                     {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
                    ]
         }
+        ,
+        {
+          "header": "Nhạc kẹo lên đồ",
+          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
+                   ]
+        }
+      ]
+    },
+    {
+      "header": "Nhạc sàn",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Nonstop 2018",
+          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
+                   ]
+        },
+        {
+          "header": "Liên khúc nhạc trẻ",
+          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
+                   ]
+        }
+        ,
+        {
+          "header": "Nhạc sàn đẳng cấp",
+          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
+                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
+                   ]
+        }
       ]
     }
   ]
