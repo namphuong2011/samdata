@@ -9,55 +9,9 @@
       "items": [
         {
           "header": "Môt video",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        }
-      ]
-    },
-    {
-      "header": "DJ Nonstop",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        }
-      ]
-    },
-    {
-      "header": "Rap chat",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        },
-        {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+                    
+                   ]
         }
       ]
     }
