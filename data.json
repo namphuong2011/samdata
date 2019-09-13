@@ -38,46 +38,33 @@
       "items": [
         {
           "header": "Nhạc tập thể hình",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+             {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         },
         {
           "header": "Gym cực chất",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+                       {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym+c%E1%BB%B1c+ch%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+          ]
         }
         ,
         {
-          "header": "Việt mix tập gym",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "header": "Việt remix tập gym",
+          "values":[
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+vi%E1%BB%87t+bolero+remix+t%E1%BA%ADp+gym&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         }
-        ,
-        {
-          "header": "Nhạc sàn dj tập gym",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
-        }
+        
                 ,
         {
           "header": "Nhạc EDM chuyên cho tập gym",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+           {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Nh%E1%BA%A1c+EDM+t%E1%BA%ADp+gym+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         }
       ]
     }
