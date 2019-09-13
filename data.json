@@ -1,36 +1,37 @@
 {
   "title": "",
   "tabs": [
-    {
-      "header": "Nhạc sàn",
+        {
+      "header": "Nhạc Trẻ",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "Nhạc sàn 2019",
+          "header": "Nhạc trẻ sôi động",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+2019&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
-                    ]
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         },
         {
-          "header": "Nhạc sàn trung quốc",
+          "header": "Nhạc trẻ tâm trạng",
           "values":[
-          {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+dj+trung+qu%E1%BB%91c&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
-  
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
           ]
         }
         ,
         {
-          "header": "Nonstop 2019",
-          "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nonstop+2019&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
-
-          ]
+          "header": "Nhạc trẻ 2019 remix bass cực căng",
+          "values":[       
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+                ]
         }
       ]
-    },
-    {
+    }
+    ,
+        {
       "header": "Nhạc tập Gym",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
@@ -70,6 +71,36 @@
     }
     ,
     {
+      "header": "Nhạc sàn",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Nhạc sàn tuyển chọn mới 2019",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+2019&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
+                    ]
+        },
+        {
+          "header": "Nhạc sàn trung quốc",
+          "values":[
+          {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+dj+trung+qu%E1%BB%91c&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
+  
+          ]
+        }
+        ,
+        {
+          "header": "Thể loại Nonstop 2019",
+          "values":[
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nonstop+2019&type=video&videoDuration=long&key=AIzaSyCFGVPk0EVnkC2RCUz_5fQhZ0-7x_jKEfQ"}
+
+          ]
+        }
+      ]
+    },
+
+    {
       "header": "Nhạc có DJ Remix",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
@@ -108,36 +139,7 @@
       ]
     }
     
-      ,
-    {
-      "header": "Nhạc Trẻ",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "2019",
-          "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+     
 
-          ]
-        },
-        {
-          "header": "Nhạc trẻ tâm trạng",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
-
-          ]
-        }
-        ,
-        {
-          "header": "Nhạc trẻ 2019 remix bass cực căng",
-          "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
-                ]
-        }
-       
-      ]
-    }
   ]
 }
