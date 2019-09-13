@@ -77,90 +77,66 @@
       "items": [
         {
           "header": "Nhạc sống remix",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%E1%BB%91ng+remix&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         },
         {
           "header": "Nhạc dance quốc tế",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dance+qu%E1%BB%91c+t%E1%BA%BF+remix&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         }
         ,
         {
           "header": "Nhạc dj remix 2019",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[       
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dj+remix+2019&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+                ]
         }
         ,
         {
           "header": "Liên khúc nhạc bolero Remix",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+bolero+remix+dj&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+  
+          ]
         }
-                ,
-        {
-          "header": "Trang moon DJ",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
-        }
+       
       ]
     }
-     ,
+    
+      ,
     {
-      "header": "Tổng hợp DJ Việt",
+      "header": "Nhạc Trẻ",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "DJ Trang Moon",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "header": "2019",
+          "values":[
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         },
         {
-          "header": "Oxy DJ",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "header": "Nhạc trẻ tâm trạng",
+          "values":[
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
         }
         ,
         {
-          "header": "King Lady DJ Nguyễn Thị Thu Hiền",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
+          "header": "Nhạc trẻ 2019 remix bass cực căng",
+          "values":[       
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+                ]
         }
-        ,
-        {
-          "header": "DJ Myno",
-          "values":[{"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=4kduBtniszE&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=oD4VyKwjxuc&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"},
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=j1eMeXE7rWY&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}, 
-                    {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=Dy-wRYzuPo4&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"} 
-                   ]
-        }
+       
       ]
     }
   ]
