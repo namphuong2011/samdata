@@ -31,6 +31,36 @@
       ]
     }
     ,
+          {
+      "header": "Mashup",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Mashup nhạc trẻ sôi động",
+          "values":[
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+nh%E1%BA%A1c+vi%E1%BB%87t&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
+        },
+        {
+          "header": "Mashup Ron Vinh & Thảo Phạm",
+          "values":[
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+r%C3%B4n+vinh+v%C3%A0+th%E1%BA%A3o+ph%E1%BA%A1m&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+
+          ]
+        }
+        ,
+        {
+          "header": "Mashup tophit vpop",
+          "values":[       
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+top+hit+vpop&type=video&videoDuration=long&key=AIzaSyBVtT8b2Z7ygpkVXoGSjSgCvUVEIIf5xpI"}
+                ]
+        }
+      ]
+    }
+    ,
         {
       "header": "Nhạc tập Gym",
       "bgcolor": "0xe53935",
