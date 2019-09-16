@@ -9,36 +9,57 @@
       "items": [
         {
           "header": "Thích Nhất Hạnh",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         },
         {
           "header": "Thích Thanh Từ",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=kX9DO3Lvtms%2CEySASTwjaJs%2CRb3CKF2vDjw%2CUCp7mSPAjDU&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ,
         {
           "header": "Deepak Chopra",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=vEPPKW3WG9c%2CQORkHW4mzs4%2COZeb6shtln4%2CmifTNPebuh4&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ,
         {
-          "header": "Osho",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "header": "Osho Drukpa",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=pFxpv-DIsP4%2CBiEoWbMpLcE%2C6PP4JE-_mUM%2CRLWh2OyPwO8%2CMsAVD00WwAE%2C6PP4JE-_mUM&t&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ,
         {
           "header": "Blair Splading",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ,
         {
           "header": "Nguyễn Duy Cần",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ,
         {
           "header": "Joseph Goldstein",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ]
     },
@@ -49,8 +70,34 @@
       "urlComment": "",
       "items": [
         {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+          "header": "Thích Tâm Nguyên",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=bde66iRcwDI%2CtE8ChD-tGjg%2Cp_iqqfzgLX8%2CMeoI-Oc3yZk%2CxAh0CucLUUE%2C0cj4O2C25qk%2C8NyiWDXbqZQ%2CiTL7ABV-sys%2C-1kQys4GV-Q%2CUHaAkpPf4Js&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        },
+        {
+          "header": "Thích Nhất Hạnh",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=6fXRSv-WXcI%2CvQCugHyElCs%2C9Rlae3OJeBY%2CWNvXBOva96I%2CWRCSmb0Yrac%2CB-jDWvbxeCY&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        }
+      ,
+        {
+          "header": "Ni Sư Thích Nữ Như Lan",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=CKVy58U5JFo%2CUD4SDbJW2mE%2C3V-95bUINb0%2CV4ruFXefCaE%2CV4ruFXefCaE%2CYwv6ORVwHCU%2CQ-MFiUrnpdw&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        }
+      ,
+        {
+          "header": "Thích Thiện Thuận",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=LMPKy7Cqsfs%2C75RU8GnoqgQ%2CYwk0iHQLCfY%2CSJJpRSHV6Gk%2C_cu_tdpwD8U%2CXgwHCe-YTHM%2CgHqhhZAJ67g&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ]
     },
@@ -61,33 +108,36 @@
       "urlComment": "",
       "items": [
         {
-          "header": "Sách về phật giáo",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+          "header": "Kinh Diệu Pháp Liên Hoa",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ]
     },
     {
-      "header": "Bản nhạc thiền hay nhất",
+      "header": "Lắng nghe âm nhạc",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        }
-      ]
-    },
-    {
-      "header": "Bài hát Phật giáo",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
+          "header": "Những bài nhạc thiền ",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+         }
+,
         {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+          "header": "Bài hát phật giáo",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
+
       ]
     }
   ,
@@ -98,23 +148,28 @@
       "urlComment": "",
       "items": [
         {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
-        }
-      ]
-    }
-  ,
-    {
-      "header": "Lắng nghe lời pháp từ các thiền sư",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
+          "header": "Sách nói tuyển chọn 1",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        },
         {
-          "header": "Nhac san",
-          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+          "header": "Sách nói tuyển chọn 3",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        },
+        {
+          "header": "Sách nói tuyển chọn 3",
+          "values":[
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
         }
       ]
     }
+
   ]
 }
