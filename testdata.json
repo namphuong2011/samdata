@@ -1,175 +1,120 @@
 {
   "title": "",
   "tabs": [
-        {
-      "header": "Nhạc Trẻ REMIX",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "Nhạc trẻ sôi động",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2CqG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        },
-        {
-          "header": "Nhạc trẻ tâm trạng",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        }
-        ,
-        {
-          "header": "Nhạc trẻ 2019 remix bass cực căng",
-          "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-                ]
-        }
-      ]
-    }
-    ,
-          {
-      "header": "Mashup",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "Mashup nhạc trẻ sôi động",
-          "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+nh%E1%BA%A1c+vi%E1%BB%87t&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        },
-        {
-          "header": "Mashup Ron Vinh & Thảo Phạm",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+r%C3%B4n+vinh+v%C3%A0+th%E1%BA%A3o+ph%E1%BA%A1m&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        }
-        ,
-        {
-          "header": "Mashup tophit vpop",
-          "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+top+hit+vpop&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-                ]
-        }
-      ]
-    }
-    ,
-        {
-      "header": "Nhạc tập Gym",
-      "bgcolor": "0xe53935",
-      "txtcolor": "0xfafafa",
-      "urlComment": "",
-      "items": [
-        {
-          "header": "Nhạc tập thể hình",
-          "values":[
-             {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        },
-        {
-          "header": "Gym cực chất",
-          "values":[
-                       {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym+c%E1%BB%B1c+ch%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-          ]
-        }
-        ,
-        {
-          "header": "Việt remix tập gym",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+vi%E1%BB%87t+bolero+remix+t%E1%BA%ADp+gym&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        }
-        
-                ,
-        {
-          "header": "Nhạc EDM chuyên cho tập gym",
-          "values":[
-           {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Nh%E1%BA%A1c+EDM+t%E1%BA%ADp+gym+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        }
-      ]
-    }
-    ,
     {
-      "header": "Nhạc sàn",
+      "header": "Sách hay thiền",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "Nhạc sàn tuyển chọn mới 2019",
-          "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-                    ]
+          "header": "Thích Nhất Hạnh",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
         },
         {
-          "header": "Nhạc sàn trung quốc",
-          "values":[
-          {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+dj+trung+qu%E1%BB%91c&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-  
-          ]
+          "header": "Thích Thanh Từ",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
         }
-        ,
+      ,
         {
-          "header": "Thể loại Nonstop 2019",
-          "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nonstop+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
+          "header": "Deepak Chopra",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+        }
+      ,
+        {
+          "header": "Osho",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+        }
+      ,
+        {
+          "header": "Blair Splading",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+        }
+      ,
+        {
+          "header": "Nguyễn Duy Cần",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
+        }
+      ,
+        {
+          "header": "Joseph Goldstein",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
         }
       ]
     },
-
     {
-      "header": "Nhạc có DJ Remix",
+      "header": "Bài pháp thoại & pháp âm",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "Nhạc sống remix",
-          "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%E1%BB%91ng+remix&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
-        },
-        {
-          "header": "Nhạc dance quốc tế",
-          "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dance+qu%E1%BB%91c+t%E1%BA%BF+remix&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-
-          ]
+          "header": "Nhac san",
+          "value": "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=WptLybJY3UM%2Ct18Kz_36Rcg&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"
         }
-        ,
+      ]
+    },
+    {
+      "header": "Bài kinh tụng & kinh đọc",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
         {
-          "header": "Nhạc dj remix 2019",
-          "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dj+remix+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-                ]
+          "header": "Sách về phật giáo",
+          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
         }
-        ,
+      ]
+    },
+    {
+      "header": "Bản nhạc thiền hay nhất",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
         {
-          "header": "Liên khúc nhạc bolero Remix",
-          "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+bolero+remix+dj&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
-  
-          ]
+          "header": "Nhac san",
+          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
         }
-       
+      ]
+    },
+    {
+      "header": "Bài hát Phật giáo",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Nhac san",
+          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+        }
       ]
     }
-    
-     
-
+  ,
+    {
+      "header": "Sách nói tổng hợp chọn lọc",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Nhac san",
+          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+        }
+      ]
+    }
+  ,
+    {
+      "header": "Lắng nghe lời pháp từ các thiền sư",
+      "bgcolor": "0xe53935",
+      "txtcolor": "0xfafafa",
+      "urlComment": "",
+      "items": [
+        {
+          "header": "Nhac san",
+          "value": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&q=namviet+music+li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+xu%C3%A2n&type=video&videoDuration=long&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"
+        }
+      ]
+    }
   ]
 }
