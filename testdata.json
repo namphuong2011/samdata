@@ -142,29 +142,29 @@
     }
   ,
     {
-      "header": "Sách nói tổng hợp chọn lọc",
+      "header": "Âm thanh dễ ngủ và thư giãn",
       "bgcolor": "0xe53935",
       "txtcolor": "0xfafafa",
       "urlComment": "",
       "items": [
         {
-          "header": "Sách nói tuyển chọn 1",
+          "header": "Tiếng mưa rơi và sấm sét",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+ {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ti%E1%BA%BFng+m%C6%B0a+r%C6%A1i+v%C3%A0+s%E1%BA%A5m+s%C3%A9t+d%E1%BB%85+ng%E1%BB%A7&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         },
         {
-          "header": "Sách nói tuyển chọn 3",
+          "header": "Tiếng Sáo",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=ti%E1%BA%BFng+s%C3%A1o+tr%C3%BAc+d%E1%BB%85+ng%E1%BB%A7&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         },
         {
-          "header": "Sách nói tuyển chọn 3",
+          "header": "Tiếng Piano",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=piano+d%E1%BB%85+ng%E1%BB%A7+kh%C3%B4ng+qu%E1%BA%A3ng+c%C3%A1o&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
