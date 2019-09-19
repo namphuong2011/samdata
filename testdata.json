@@ -108,9 +108,23 @@
       "urlComment": "",
       "items": [
         {
-          "header": "Kinh Diệu Pháp Liên Hoa",
+          "header": "Kinh Diệu Pháp Liên Hoa, Hiền Nhân, Lăng Già",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=kinh+di%E1%BB%87u+ph%C3%A1p+li%C3%AAn+hoa+%7C+kinh+hi%E1%BB%81n+nh%C3%A2n+%7CKinh+l%C4%83ng+gi%C3%A0&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        },
+        {
+          "header": "Kinh Quan Thế Âm",
+          "values":[
+  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Kinh+Qu%C3%A1n+Th%E1%BA%BF+%C3%82m&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
+          ]
+        },
+        {
+          "header": "Bát Nhã Tam Kinh",
+          "values":[
+  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=B%C3%A1t+nh%C3%A3+tam+kinh&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
