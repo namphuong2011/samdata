@@ -41,7 +41,7 @@
         {
           "header": "Hành trình về phương Đông - Blair Splading",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=H%C3%A0nh+tr%C3%ACnh+v%E1%BB%81+ph%C6%B0%C6%A1ng+%C4%90%C3%B4ng+-+Blair+Splading&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
@@ -49,15 +49,7 @@
         {
           "header": "Thuật tư tưởng - Nguyễn Duy Cần",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
-
-          ]
-        }
-      ,
-        {
-          "header": "Kinh nghiệm thiền quán - Joseph Goldstein",
-          "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=riGJBK5Tc8Y%2Cr4B2MXfWJd4%2CmfviszkWKH4%2CnS9O5MWwT4k%2CuWUBcyxct6M%2CJnnojq3nIMk%2C6Mxw1ds_xSE%2qG7LcAIFzuI%2C84k5Lk4cW7w%2CyU2Ahi2fqas&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+     {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=s%C3%A1ch+nguy%E1%BB%85n+duy+c%E1%BA%A7n&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
@@ -72,14 +64,17 @@
         {
           "header": "Cách giáo dục con cái - Thích Tâm Nguyên",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=bde66iRcwDI%2CtE8ChD-tGjg%2Cp_iqqfzgLX8%2CMeoI-Oc3yZk%2CxAh0CucLUUE%2C0cj4O2C25qk%2C8NyiWDXbqZQ%2CiTL7ABV-sys%2C-1kQys4GV-Q%2CUHaAkpPf4Js&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=bde66iRcwDI%2CtE8ChD-tGjg%2Cp_iqqfzgLX8%2CMeoI-Oc3yZk%2CxAh0CucLUUE%2C0cj4O2C25qk%2C8NyiWDXbqZQ%2CiTL7ABV-sys%2C-1kQys4GV-Q%2CUHaAkpPf4Js&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"},
+                 {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=th%C3%ADch+t%C3%A2m+nguy%C3%AAn+thuy%E1%BA%BFt+ph%C3%A1p&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+
 
           ]
         },
         {
           "header": "Buôn bỏ ngũ dục - Thích Nhất Hạnh",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=6fXRSv-WXcI%2CvQCugHyElCs%2C9Rlae3OJeBY%2CWNvXBOva96I%2CWRCSmb0Yrac%2CB-jDWvbxeCY&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=6fXRSv-WXcI%2CvQCugHyElCs%2C9Rlae3OJeBY%2CWNvXBOva96I%2CWRCSmb0Yrac%2CB-jDWvbxeCY&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"},
+               {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=th%C3%ADch+nh%E1%BA%A5t+h%E1%BA%A1nh+thuy%E1%BA%BFt+ph%C3%A1p&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
@@ -87,7 +82,8 @@
         {
           "header": "Bớt nghe bớt nói bớt nhìn - Ni Sư Thích Nữ Như Lan",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=CKVy58U5JFo%2CUD4SDbJW2mE%2C3V-95bUINb0%2CV4ruFXefCaE%2CV4ruFXefCaE%2CYwv6ORVwHCU%2CQ-MFiUrnpdw&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=CKVy58U5JFo%2CUD4SDbJW2mE%2C3V-95bUINb0%2CV4ruFXefCaE%2CV4ruFXefCaE%2CYwv6ORVwHCU%2CQ-MFiUrnpdw&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"},
+               {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Ni+S%C6%B0+Th%C3%ADch+N%E1%BB%AF+Nh%C6%B0+Lan&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
@@ -95,7 +91,8 @@
         {
           "header": "Thả ra cho lòng bớt nhỏ nhen - Thích Thiện Thuận",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=LMPKy7Cqsfs%2C75RU8GnoqgQ%2CYwk0iHQLCfY%2CSJJpRSHV6Gk%2C_cu_tdpwD8U%2CXgwHCe-YTHM%2CgHqhhZAJ67g&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+            {"value":"https://www.googleapis.com/youtube/v3/videos?part=snippet&id=LMPKy7Cqsfs%2C75RU8GnoqgQ%2CYwk0iHQLCfY%2CSJJpRSHV6Gk%2C_cu_tdpwD8U%2CXgwHCe-YTHM%2CgHqhhZAJ67g&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"},
+               {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=th%C3%ADch+thi%E1%BB%87n+thu%E1%BA%ADn+thuy%E1%BA%BFt+ph%C3%A1p&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
 
           ]
         }
