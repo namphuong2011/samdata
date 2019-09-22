@@ -10,14 +10,14 @@
         {
           "header": "Nhạc trẻ sôi động",
           "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         },
         {
           "header": "Nhạc trẻ tâm trạng",
           "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+t%C3%A2m+tr%E1%BA%A1ng&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -25,7 +25,7 @@
         {
           "header": "Nhạc trẻ 2019 remix bass cực căng",
           "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+tr%E1%BA%BB+2019+remix+bass+c%E1%BB%B1c+c%C4%83ng&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
                 ]
         }
       ]
@@ -40,14 +40,14 @@
         {
           "header": "Mashup nhạc trẻ sôi động",
           "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+nh%E1%BA%A1c+vi%E1%BB%87t&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+nh%E1%BA%A1c+vi%E1%BB%87t&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         },
         {
           "header": "Mashup Ron Vinh & Thảo Phạm",
           "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+r%C3%B4n+vinh+v%C3%A0+th%E1%BA%A3o+ph%E1%BA%A1m&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+r%C3%B4n+vinh+v%C3%A0+th%E1%BA%A3o+ph%E1%BA%A1m&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -55,7 +55,7 @@
         {
           "header": "Mashup tophit vpop",
           "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+top+hit+vpop&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=mashup+top+hit+vpop&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
                 ]
         }
       ]
@@ -70,21 +70,21 @@
         {
           "header": "Nhạc tập thể hình",
           "values":[
-             {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+             {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         },
         {
           "header": "Gym cực chất",
           "values":[
-                       {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym+c%E1%BB%B1c+ch%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+                       {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+t%E1%BA%ADp+gym+c%E1%BB%B1c+ch%E1%BA%A5t&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
           ]
         }
         ,
         {
           "header": "Việt remix tập gym",
           "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+vi%E1%BB%87t+bolero+remix+t%E1%BA%ADp+gym&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+vi%E1%BB%87t+bolero+remix+t%E1%BA%ADp+gym&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -93,7 +93,7 @@
         {
           "header": "Nhạc EDM chuyên cho tập gym",
           "values":[
-           {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Nh%E1%BA%A1c+EDM+t%E1%BA%ADp+gym+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+           {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=Nh%E1%BA%A1c+EDM+t%E1%BA%ADp+gym+th%E1%BB%83+h%C3%ACnh&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -109,13 +109,13 @@
         {
           "header": "Nhạc sàn tuyển chọn mới 2019",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+2019&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
                     ]
         },
         {
           "header": "Nhạc sàn trung quốc",
           "values":[
-          {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+dj+trung+qu%E1%BB%91c&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+          {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%C3%A0n+dj+trung+qu%E1%BB%91c&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
   
           ]
         }
@@ -123,7 +123,7 @@
         {
           "header": "Thể loại Nonstop 2019",
           "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nonstop+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+nonstop+2019&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -139,14 +139,14 @@
         {
           "header": "Nhạc sống remix",
           "values":[
-                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%E1%BB%91ng+remix&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+s%E1%BB%91ng+remix&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         },
         {
           "header": "Nhạc dance quốc tế",
           "values":[
-        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dance+qu%E1%BB%91c+t%E1%BA%BF+remix&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+        {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dance+qu%E1%BB%91c+t%E1%BA%BF+remix&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
 
           ]
         }
@@ -154,14 +154,14 @@
         {
           "header": "Nhạc dj remix 2019",
           "values":[       
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dj+remix+2019&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c+dj+remix+2019&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
                 ]
         }
         ,
         {
           "header": "Liên khúc nhạc bolero Remix",
           "values":[
-            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+bolero+remix+dj&type=video&videoDuration=long&key=AIzaSyDDoeu2NNDSieK4bQOiNanPdElgL_6DGfw"}
+            {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=li%C3%AAn+kh%C3%BAc+nh%E1%BA%A1c+bolero+remix+dj&type=video&videoDuration=long&key=AIzaSyDFg01rKRZ_nLZ-KXP54yi7nb6aoCZMhiQ"}
   
           ]
         }
