@@ -1,0 +1,11 @@
+{
+  "feed": [
+    {
+      "title": "",
+      "detail":[
+        {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+      ]
+    }
+
+  ]
+}
