@@ -143,6 +143,13 @@
 
           ]
         },
+                {
+          "header": "Nhạc sống thôn quê",
+          "values":[
+                   {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=nh%E1%BA%A1c%20s%E1%BB%91ng%20th%C3%B4n%20qu%C3%AA&type=video&videoDuration=long&key=AIzaSyANRopUwcIy9_Gj_gebyYdSkMlRgLjzlWA"}
+
+          ]
+        },
         {
           "header": "Nhạc dance quốc tế",
           "values":[
