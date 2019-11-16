@@ -6,9 +6,7 @@
          {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyAXmcBmHfFZfzFPUHnDf55gX-7EESGSUn0"},
          {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyANRopUwcIy9_Gj_gebyYdSkMlRgLjzlWA"},
          {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyCiz0X7_4yTVhPOJZVogiOzBA1KSKTOsDo"},
-        {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyD_wIZnWxo50Z0_ITia0I7hKIpncqlf4aQ"},
-        {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyBhgtTIqJA9VFUhc_zSGGscamMnPI_g5jo"},
-        {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyDDEbTiTSAK89PFXon3sOGIX3CsTsBL1oA"}
+        {"content":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&videoEmbeddable=true&videoSyndicated=true&q=%s&type=video&key=AIzaSyBhgtTIqJA9VFUhc_zSGGscamMnPI_g5jo"}
       ]
     }
 
