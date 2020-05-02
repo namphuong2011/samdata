@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ru3_6N-LZAVgfv08Z4r7seSs7qU\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+        "totalResults": 588798,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_GPdySIXzBrkaQ_UO0_R2afrvh4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XNDI6h7MlEk"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T21:46:02.000Z",
+                "channelId": "UCaR81lGEeOmO_RH0uJdoT5A",
+                "title": "Trực Tiếp Nhạc Vàng Bolero Xưa Hay Ngây Ngất - Tuyển Tập Những Ca Khúc Bolero Trữ Tình Đặc Sắc 2019",
+                "description": "Trực Tiếp Nhạc Vàng Bolero Xưa Hay Ngây Ngất - Tuyển Tập Những Ca Khúc Bolero Trữ Tình Đặc Sắc 2019 ▻ Đăng ký để xem những video mới cập nhật:...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XNDI6h7MlEk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XNDI6h7MlEk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XNDI6h7MlEk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bolero Phòng Trà",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PYzGyasCa7GyskNTqq3UuKlLIoY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2TG3lAZrMGE"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T05:11:20.000Z",
+                "channelId": "UCytHocZlrMx499o86164B7Q",
+                "title": "ĐAN NGUYÊN - Trực Tiếp Nhạc Bolero, Nhạc Vàng, Nhạc Trữ Tình, Nhạc Lính Hay Nhất Sự Nghiệp",
+                "description": "ĐAN NGUYÊN - Nhạc Bolero, Nhạc Vàng, Nhạc Trữ Tình, Nhạc Lính Hay Nhất Sự Nghiệp. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: https://goo.gl/k3FeAE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2TG3lAZrMGE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2TG3lAZrMGE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2TG3lAZrMGE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Đan Nguyên Bolero",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RJTYwef_iYhEU_86SPHdsvk1kP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uHq3DLGc2VQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T01:30:37.000Z",
+                "channelId": "UCks39FmFGb9WI-Fawzxcn7Q",
+                "title": "300 Bài Nhạc Vàng Bolero Xưa Sầu Lòng Cực Hay - Lk Nhạc Trữ Tình Bolero Xưa Chấn Động Con Tim",
+                "description": "300 Bài Nhạc Vàng Bolero Xưa Sầu Lòng Cực Hay - Lk Nhạc Trữ Tình Bolero Xưa Chấn Động Con Tim ▻Đăng kí Liveshow Nhạc Bolero: https://goo.gl/EAxtYE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uHq3DLGc2VQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uHq3DLGc2VQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uHq3DLGc2VQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Liveshow Nhạc Bolero",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/RprymKMyPPxhSthA4F52g8J1zsI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JvQ7XXBYjo8"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T02:17:23.000Z",
+                "channelId": "UCHKcuuAYs3c8n990WeMs-Lw",
+                "title": "NHẠC VÀNG TRỮ TÌNH KHÔNG QUẢNG CÁO - SONG CA BOLERO THIÊN QUANG QUỲNH TRANG 2020 | #Stayhome #Withme",
+                "description": "Stayhome & Sing #Withme Ở nhà và cùng hát với nhau nhé (Stay home and sing along) #thienquang #thienquangofficial #thienquangquynhtrang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JvQ7XXBYjo8/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JvQ7XXBYjo8/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JvQ7XXBYjo8/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thiên Quang Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/p_JieNauDoBL1pNRowsGC4KMpVw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ftNgzaRTYZI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T04:53:04.000Z",
+                "channelId": "UCD1Cdp7J1G6UqgvyX8cIvmw",
+                "title": "LK Nhạc Trữ Tình Bolero - Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất 2020",
+                "description": "LK Nhạc Trữ Tình Bolero - Những Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất 2020.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ftNgzaRTYZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ftNgzaRTYZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ftNgzaRTYZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dân Ca Music",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/91bgKjHW4UjgaF8bAW4jVRHEzvk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ynlYH0ZZSt0"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:18:55.000Z",
+                "channelId": "UCWIFrdu7Ctn-DWi2o6M9MVA",
+                "title": "Nhạc Vàng Bolero Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Nhạc Trữ Tình Bolero ĐẶC BIỆT Hay Tê Tái",
+                "description": "Nhạc Vàng Bolero Hải Ngoại KHÔNG QUẢNG CÁO - 100 Bài Nhạc Trữ Tình Bolero ĐẶC BIỆT Hay Tê Tái ▻ Theo dõi kênh Nhạc Hay Việt Nam: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ynlYH0ZZSt0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ynlYH0ZZSt0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ynlYH0ZZSt0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Hay Việt Nam",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Sd_-WfpljEyPDzeufAKOfffhAGk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xar7Vx5UY7c"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T06:04:54.000Z",
+                "channelId": "UCmE-zTMqwtGp-GpePCt_Suw",
+                "title": "Liên Khúc NHẠC VÀNG HẢI NGOẠI Sôi Động - LK TUẤN VŨ Trọn Bộ Còn Mãi Với Thời Gian",
+                "description": "Liên Khúc NHẠC VÀNG HẢI NGOẠI Sôi Động - LK TUẤN VŨ Trọn Bộ Còn Mãi Với Thời Gian. Tuấn Vũ tên thật là Nguyễn Văn Tài, sinh ngày 16 tháng 12 năm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xar7Vx5UY7c/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xar7Vx5UY7c/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xar7Vx5UY7c/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tuấn Vũ Phượng Hoàng",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6qQEK8K6qd_yARwXIKVSwFvobXo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EPXsuSOFE7E"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T14:00:22.000Z",
+                "channelId": "UCkHASsLOHuddMTzARove3AA",
+                "title": "Đan Nguyên Không Quảng Cáo - 555 Bài Hát Nhạc Vàng, Bolero Song Ca Hay Nhất vs Hoàng Thục Linh",
+                "description": "Đan Nguyên Không Quảng Cáo - 555 Bài Hát Nhạc Vàng, Bolero Song Ca Hay Nhất vs Hoàng Thục Linh Đăng Ký Kênh Nghe Hàng Nghìn Ca Khúc Bolero, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPXsuSOFE7E/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPXsuSOFE7E/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPXsuSOFE7E/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Asia Entertainment Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/t13eYcF9bc3zq8l7T0-kYjYZtHg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7Wkxlm0mpXQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T06:03:19.000Z",
+                "channelId": "UCU0pBWhQysJSBYQd1pp9lLw",
+                "title": "1000 Bài Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - LK Nhạc Vàng Hay Tê Tái Lòng",
+                "description": "1000 Bài Nhạc Vàng Hải Ngoại KHÔNG QUẢNG CÁO - LK Nhạc Vàng Hay Tê Tái Lòng ▻ Đăng Ký Kênh Ngô Quốc Linh: http://bit.ly/2IxsZdt ♪ Liên Khúc Ngô ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7Wkxlm0mpXQ/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7Wkxlm0mpXQ/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7Wkxlm0mpXQ/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngô Quốc Linh - Bolero",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9HnzK4R28pFsD2gRdlTsXIjey9k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Z2hxJ25PXY"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:15:00.000Z",
+                "channelId": "UCjVwgRZsWbYgh6WyEH-jBUA",
+                "title": "Nhạc Trữ Tình Bolero 2020 Hay Nức Nở Cực Tê Tái Về Đêm ➤ Bolero Sến Xưa KHÔNG QUẢNG CÁO Cực Kì Hay",
+                "description": "Đăng kí kênh Miễn Phí : https://www.youtube.com/channel/UCjVwgRZsWbYgh6WyEH-jBUA?view_as=subscriber ➤ Tác Phẩm : Nhạc Trữ Tình Bolero 2020 Hay ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Z2hxJ25PXY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Z2hxJ25PXY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Z2hxJ25PXY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kho Nhạc Sến",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/eWEynC82CUmrcQZmZHxb8cODKhA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-UxEb7E_N74"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T00:59:25.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "Liên Khúc Nhạc Trữ Tình Bolero Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "Liên Khúc Nhạc Trữ Tình Bolero Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-UxEb7E_N74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-UxEb7E_N74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-UxEb7E_N74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zYwraLwCjPsYYV386hqyezR7G10\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zOwJzyDDxqk"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:59:57.000Z",
+                "channelId": "UCtCxQ6KirulJ8SssDtI8b0w",
+                "title": "Nhạc Trữ Tình Remix 2020 Tuyển Chọn Hay Nhất Việt Nam | Nhạc Sống Thôn Quê Bolero 2020",
+                "description": "Nhạc Trữ Tình Remix 2020 Tuyển Chọn Hay Nhất Việt Nam | Nhạc Sống Thôn Quê Bolero 2020 Đăng ký ủng hộ Kênh và Nghe Nhạc Đỏ Sôi Động Hay Mỗi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zOwJzyDDxqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zOwJzyDDxqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zOwJzyDDxqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuồng Nhạc Sống",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hNXHUwCtmk41nG0jtNAKHo7hLC4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r5BJNZAmnmU"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-29T12:36:43.000Z",
+                "channelId": "UC-9LHv6RxD5iONLUXHSLtTQ",
+                "title": "93 Bài Nhạc Bolero KHÔNG QUẢNG CÁO - LK Nhạc Vàng Trữ Tình Chọn Lọc 2020",
+                "description": "93 Bài Nhạc Bolero KHÔNG QUẢNG CÁO - LK Nhạc Vàng Trữ Tình Chọn Lọc 2020 Nhạc Vàng Bolero 2020: https://bit.ly/2rMMAvO Song Ca Bolero Chọn Lọc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r5BJNZAmnmU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r5BJNZAmnmU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r5BJNZAmnmU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tình Khúc Nhạc Vàng",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zLzyqj-kLxLHjbtV0Z8vjv74MvY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RJk7-n7mkec"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T23:49:28.000Z",
+                "channelId": "UCNqz53FCc3mUg5NyzHxsXGQ",
+                "title": "Quang Lê Không Quảng Cáo - Tuyển Chọn Nhạc Trữ Tình, Bolero, Nhạc Vàng Hay Nhất",
+                "description": "Quang Lê Không Quảng Cáo - Tuyển Chọn Nhạc Trữ Tình, Bolero, Nhạc Vàng Hay Nhất Quang Lê Không Quảng Cáo - Tuyển Chọn Nhạc Trữ Tình, Bolero, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RJk7-n7mkec/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RJk7-n7mkec/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RJk7-n7mkec/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Lê Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6_rpdlYF8FNfKnLlevTv7uNOIjQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FddN-BbCLtM"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T02:53:36.000Z",
+                "channelId": "UCytHocZlrMx499o86164B7Q",
+                "title": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê",
+                "description": "Liên Khúc TẠ TỪ TRONG ĐÊM - Nhạc vàng hải ngoại ĐAN NGUYÊN Không Quảng Cáo Vạn Người Mê. ▻ Đan Nguyên Chọn lọc hay nhất sự nghiệp: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FddN-BbCLtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FddN-BbCLtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FddN-BbCLtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Đan Nguyên Bolero",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xs_9YT46a6wLmBqvJIkI_tpvt6s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5l9QHryw2eQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T10:58:24.000Z",
+                "channelId": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+                "title": "Album Lại Nhớ Người Yêu - Tuyển Tập Nhạc Vàng Quang Lập Chất Lượng Cao (Vol 1)",
+                "description": "Nhạc Vàng Bolero Xưa Tổng Hợp https://goo.gl/TYkuGS ♫ Nhạc chất lượng cao Spotify: https://spoti.fi/2VT74RE ▻Ca sĩ trung tâm Giọng Ca Để Đời: Quang Lập ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5l9QHryw2eQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5l9QHryw2eQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5l9QHryw2eQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Giọng Ca Để Đời",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/fhFmxKqR7xi76Dv9frjpZA75IWM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S8qyhkpgx_E"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T23:28:28.000Z",
+                "channelId": "UCemEbhIN-4itlXW3S9s54Pw",
+                "title": "Nhạc Vàng Bolero KHÔNG QUẢNG CÁO - LK Song Ca Bolero Trữ Tình Hay Nhất 2020",
+                "description": "Nhạc Vàng Bolero KHÔNG QUẢNG CÁO - LK Song Ca Bolero Trữ Tình Hay Nhất 2020 ------------------------------------------------------------------------------ Đăng kí theo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S8qyhkpgx_E/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S8qyhkpgx_E/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S8qyhkpgx_E/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ca Sĩ Lê Sang",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/sTOHafjtG8x3N-FMqTbKPj5ciFo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wqN2UkCdfqc"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:45:00.000Z",
+                "channelId": "UCd1-jrKbxWSS198uZLOAN9w",
+                "title": "LIÊN KHÚC NHAC SỐNG TRỮ TÌNH 2020 HAY NHẤT - CẢ XÓM PHÊ NỨC NỞ - NHẠC VÀNG BOLERO SẾN XƯA TUYỂN CHỌN",
+                "description": "Tác Phẩm: LIÊN KHÚC NHAC SỐNG TRỮ TÌNH 2020 HAY NHẤT - CẢ XÓM PHÊ NỨC NỞ - NHẠC VÀNG BOLERO SẾN XƯA TUYỂN CHỌN 1. Đừng nhắc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wqN2UkCdfqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wqN2UkCdfqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wqN2UkCdfqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bolero No1",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/wuPtStp5LxKU_X_HsFQYh56Obis\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gc40pJuralo"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T00:21:48.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero Chọn Lọc MỚI ĐÉT2020➤LK 3562 Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤3562Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gc40pJuralo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gc40pJuralo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gc40pJuralo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/kWEIkrb2em5tFe4RbalbUQzjQmY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7RVCrfAIsK8"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T22:45:01.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "LK Nhạc Trữ Tình Bolero Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "LK Nhạc Trữ Tình Bolero Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7RVCrfAIsK8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7RVCrfAIsK8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7RVCrfAIsK8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S3ElZik5yWHYy5Twk8F3wPxUH5I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yJ3xlsqDEbI"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T01:39:52.000Z",
+                "channelId": "UCD1Cdp7J1G6UqgvyX8cIvmw",
+                "title": "Liên Khúc Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "Liên Khúc Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yJ3xlsqDEbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yJ3xlsqDEbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yJ3xlsqDEbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dân Ca Music",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/2tO2_zhAFSEqxUnFjjRIae-CZ_M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "16MTN4sbSCk"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T00:07:15.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero CỰC MỚI ĐÉT2020➤LK 3460 Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤3460 Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/16MTN4sbSCk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/16MTN4sbSCk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/16MTN4sbSCk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KIZPXHt1uT0ilOlwuMS3b5hyuQU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z1zMjyPJTJM"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:15:20.000Z",
+                "channelId": "UCaR81lGEeOmO_RH0uJdoT5A",
+                "title": "Liên Khúc Nhạc Vàng Trữ Tình 2020 - Tuyệt Đỉnh Nhạc Phòng Trà Bolero Nhẹ Nhàng Phương Anh 2020",
+                "description": "Liên Khúc Nhạc Vàng Trữ Tình 2020 - Tuyệt Đỉnh Nhạc Phòng Trà Bolero Nhẹ Nhàng Phương Anh 2020 ------------------- ▻ Đăng ký để xem những video mới ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z1zMjyPJTJM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z1zMjyPJTJM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z1zMjyPJTJM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bolero Phòng Trà",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ygOBymkYztPz0Wo9xNUTt3pASg4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dx9N1775U7g"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-18T11:59:50.000Z",
+                "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+                "title": "Mùa Xuân Lá Khô - Siêu Phẩm Nhạc Vàng Bolero Xưa Chọn Lọc Hay Nhất - Nhạc Vàng Xưa Bất Hủ Còn Mãi",
+                "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dx9N1775U7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dx9N1775U7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dx9N1775U7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Việt Hải Ngoại",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nG2bJXg4SMdr7ED7QzuFqMT87pc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RH2U1FL95HU"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T23:14:33.000Z",
+                "channelId": "UC0Ujw9oEpuiB_c5roTEEsWg",
+                "title": "55 Bài Nhạc Vàng KHÔNG QUẢNG CÁO - LK Nhạc Vàng Bolero Hay Tê Tái",
+                "description": "Theo dõi kênh Nhạc Vàng Trữ Tình: https://goo.gl/YN48d3 Kênh Nhạc Vàng Trữ Tình là kênh tuyển tập những bài hát hay về những thể loại: nhạc trữ tình,nhạ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RH2U1FL95HU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RH2U1FL95HU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RH2U1FL95HU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Vàng Trữ Tình",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Mrf8FeXLZfP-nkpr27pv6l7by-M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OumRhLvj26g"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T22:30:14.000Z",
+                "channelId": "UCKLk6OIOI_OQAfH3xR5sRIQ",
+                "title": "Nhạc Đỏ Tây Bắc Tiền Chiến Remix Mới Nhất 2020 - Gặp Nhau Giữa Rừng Mơ - Nhạc Sống Cách Mạng DJ",
+                "description": "Nhạc Đỏ Tây Bắc Tiền Chiến Remix Mới Nhất 2020 - Gặp Nhau Giữa Rừng Mơ - Nhạc Sống Cách Mạng DJ. - Nhạc Sống Đám Cưới: https://goo.gl/vjE9yq ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OumRhLvj26g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OumRhLvj26g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OumRhLvj26g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kênh Nhạc Sống",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/THjBtKEmcpeJFxQE4VSifOtApFU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NpqhFSXXHwM"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-15T22:11:07.000Z",
+                "channelId": "UCOJQT7GhRj9JsvMF2u--MgQ",
+                "title": "Tình Khúc Buồn NHẠC VÀNG HẢI NGOẠI...Mở Là Phê Nghe Là Mê KHÔNG QUẢNG CÁO Hay Nhất",
+                "description": "Tình Khúc Buồn NHẠC VÀNG HẢI NGOẠI...Mở Là Phê Nghe Là Mê KHÔNG QUẢNG CÁO Hay Nhất Cám ơn các bạn đã theo dõi! Đừng quên xếp hạng cho ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NpqhFSXXHwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NpqhFSXXHwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NpqhFSXXHwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bolero Nhạc Vàng",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9BHZLOzUNb0t5VsVSkq1LzgSOD8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ui2liuOEAmI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T23:00:14.000Z",
+                "channelId": "UCvbet8Wdl7buA15IkwU8pJw",
+                "title": "Liên khúc Chuyện Tình Người Đan Áo, Chuyện Hoa Sim - Nhạc vàng để đời Nghe 600 lần không chán",
+                "description": "Liên khúc Chuyện Tình Người Đan Áo, Chuyện Hoa Sim - Nhạc vàng để đời Nghe 600 lần không chán ▻ Mạnh Đình hay nhất sự nghiệp: http://bit.ly/jiijiij ▻...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ui2liuOEAmI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ui2liuOEAmI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ui2liuOEAmI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mạnh Đình",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hpoOCZ71p4ubypZUurzr_xQqzq4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kt5PXhMmQuo"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T00:30:20.000Z",
+                "channelId": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+                "title": "Nhạc Vàng Bolero Để Đời 2020 ♫ 999 Ca Khúc Nhạc Vàng Trữ Tình Hay Nhất 2020",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kt5PXhMmQuo/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kt5PXhMmQuo/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kt5PXhMmQuo/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Giọng Ca Để Đời",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ECAk1-nr3xyYIIT4FfRRxFZ6Rkc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WGoRJQecPHo"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-28T23:33:24.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero Cực MỚI ĐÉT2020➤LK 3360 Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤3360 Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WGoRJQecPHo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WGoRJQecPHo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WGoRJQecPHo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/BKRaoFWrEbsEpjtmEBum1g_qaP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f2VxlM64uyQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-26T22:45:00.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "Liên Khúc Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "Liên Khúc Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f2VxlM64uyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f2VxlM64uyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f2VxlM64uyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/t-ySjW-R-WWZCqui5IX8ayMC_ZY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NVyLAYcPpAM"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T05:49:39.000Z",
+                "channelId": "UCDqpUyfa51E4tjVECE4QpRA",
+                "title": "Nhạc Bolero, Nhạc Trữ Tình, Nhạc Vàng hay Nhất 2020 - GIÁNG TIÊN Chọn Lọc Vạn Người Mê Say",
+                "description": "Nhạc Bolero, Nhạc Trữ Tình, Nhạc Vàng hay Nhất 2020 - GIÁNG TIÊN Chọn Lọc Vạn Người Mê Say. #nhacbolero #Nhactrutinh #nhacvang #giangtien Chúc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NVyLAYcPpAM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NVyLAYcPpAM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NVyLAYcPpAM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Giáng Tiên Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MqIf8ey6_q0duIxVP_PR8Yfvero\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VII3rPKqI2w"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-24T01:08:54.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero CỰC MỚI ĐÉT2020➤LK 2968 Bolero Nhạc Vàng CÀNG NGHE CÀNG THÍCH NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤2960 Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG THÍCH NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VII3rPKqI2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VII3rPKqI2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VII3rPKqI2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Si50ttcIKbRBKMfAEaPrLuebkiI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NJ9tkAA5ikY"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-28T22:45:00.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "LK Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "LK Nhạc Trữ Tình Dân Ca Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NJ9tkAA5ikY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NJ9tkAA5ikY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NJ9tkAA5ikY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gznS-Sod1S2QwAyUYUgZA5G3yA4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "poZu8rIGE0g"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T09:44:56.000Z",
+                "channelId": "UCkCFYK5CVGc7Zh4692ZlaMQ",
+                "title": "NHẠC VÀNG BOLERO REMIX MỚI ĐÉT CỰC HAY - NHẠC TRỮ TÌNH REMIX - NHẠC SỐNG HÀ TÂY REMIX VẠN NGƯỜI MÊ",
+                "description": "Các ca khúc đã được cấp phép kèm theo hợp đồng số 0246M/2018/HDHT-POPS-Giai Điệu Trữ Tình ngày 26/09/2018. Danh Sách Bài Hát & Tác Giả: VỢ TÔI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/poZu8rIGE0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/poZu8rIGE0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/poZu8rIGE0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NHẠC TRỮ TÌNH REMIX",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mItDi1L8TxrBFW8p7IZJNZg8jBY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lv98i4YlwGw"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T01:19:42.000Z",
+                "channelId": "UCHKcuuAYs3c8n990WeMs-Lw",
+                "title": "NHẠC VÀNG TRỮ TÌNH KHÔNG QUẢNG CÁO - SONG CA BOLERO THIÊN QUANG QUỲNH TRANG 2020 | #Stayhome #Withme",
+                "description": "Stayhome & Sing #Withme Ở nhà và cùng hát với nhau nhé (Stay home and sing along) #thienquang #thienquangofficial #thienquangquynhtrang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lv98i4YlwGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lv98i4YlwGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lv98i4YlwGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thiên Quang Official",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZTtA8XGEx72omIwsqyJkgL1t7jQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HbToE1iyJBc"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-26T08:55:38.000Z",
+                "channelId": "UCN__8LL7aLFCgHu44usIn_A",
+                "title": "Nhạc Vàng Quang Lập Trọn Bộ - 60 Bài Nhạc Vàng Hải Ngoại Chất Chứa Bao Nỗi Niềm",
+                "description": "Nhạc Vàng Quang Lập Trọn Bộ - 60 Bài Nhạc Vàng Hải Ngoại Chất Chứa Bao Nỗi Niềm ♫ Nghe MP3 chất lượng cao tại Spotify: https://spoti.fi/2TPSxUo MV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HbToE1iyJBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HbToE1iyJBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HbToE1iyJBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Lập Official",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/mO7PNZ_eKW5pCuVgcbgtk8DhWzs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ouQYHI3ihu0"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T23:33:42.000Z",
+                "channelId": "UCUbMe8JMeuOKgDfDuVeCFwQ",
+                "title": "NHẠC VÀNG THỜI XƯA - Lk Nhạc Vàng Bolero Hải Ngoại Xưa Chọn Lọc Cực Hay - Nhạc Việt Hải Ngoại",
+                "description": "Nhạc Việt Hải Ngoại sẽ là kênh chính thức của các bản nhạc: Nhạc Vàng, Nhạc Bolero, Tình Ca Xưa Hay Nhất. Bấm vào nút đăng ký ( subscribe ) để được...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ouQYHI3ihu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ouQYHI3ihu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ouQYHI3ihu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Việt Hải Ngoại",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/l71iIuTQkIHvyagRHLQJGOO20TU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qeXmcDEMDAs"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T22:25:55.000Z",
+                "channelId": "UCjVwgRZsWbYgh6WyEH-jBUA",
+                "title": "Nhạc Trữ Tình Bolero 2020 Hay Tê Tái Cực Xót Xa Về Đêm ➤ Bolero Sến Xưa KHÔNG QUẢNG CÁO Cực Kì Hay",
+                "description": "Đăng kí kênh Miễn Phí : https://www.youtube.com/channel/UCjVwgRZsWbYgh6WyEH-jBUA?view_as=subscriber ➤ Tác Phẩm : Nhạc Trữ Tình Bolero 2020 Hay ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qeXmcDEMDAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qeXmcDEMDAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qeXmcDEMDAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kho Nhạc Sến",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/S_aySVvQ-SG-r_O_ZgRHU9J53yM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0M3ASMoRTII"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-29T14:10:43.000Z",
+                "channelId": "UCN__8LL7aLFCgHu44usIn_A",
+                "title": "Nhạc Vàng Buồn Nhức Nhối Xót Xa Về Đêm ♫ 99 Bài Bolero Trữ Tình KHÔNG QUẢNG CÁO",
+                "description": "Nhạc Vàng Buồn Nhức Nhối Xót Xa Về Đêm ♫ 99 Bài Bolero Trữ Tình KHÔNG QUẢNG CÁO ♫ Nghe MP3 chất lượng cao tại Spotify: https://spoti.fi/2TPSxUo MV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0M3ASMoRTII/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0M3ASMoRTII/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0M3ASMoRTII/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Lập Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lOHrDn7ADzeIfKZyFWObHewQCzg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZPQawU4LmP4"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T02:55:12.000Z",
+                "channelId": "UCSuFO1hCI9gyPx_muWhqHqQ",
+                "title": "99 Bài Nhạc Vàng Trữ Tình Song Ca Hay Nhất 2020 - Nhạc Bolero KHÔNG QUẢNG CÁO Say Đắm Con Tim",
+                "description": "99 Bài Nhạc Vàng Trữ Tình Song Ca Hay Nhất 2020 - Nhạc Bolero KHÔNG QUẢNG CÁO Say Đắm Con Tim. * Kim Chi hay nhất: https://goo.gl/hYvsda * Nhạc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZPQawU4LmP4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZPQawU4LmP4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZPQawU4LmP4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kim Chi Official",
+                "liveBroadcastContent": "live"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/982i6nD6mAb3F23Xob3o4jOdb9Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ZHBnK5iR48"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-25T00:28:44.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero CỰC MỚI ĐÉT2020➤LK 2970 Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤2970 Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG NGHIỆN NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ZHBnK5iR48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ZHBnK5iR48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ZHBnK5iR48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qH3W8gvsWVqQwwl_UibT8xwZYr0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jJU5818lIVc"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-05T14:11:13.000Z",
+                "channelId": "UCEzp1a-qLB8sB_dCEoFbZxw",
+                "title": "Nhạc Tiền Chiến - Nhạc Vàng - Những Ca khúc Hay Nhất - Nhạc Bất Hủ.",
+                "description": "CHIA SẺ TÂM TÌNH QUA ÂM NHẠC ===================================================== ➤ Chào mừng các bạn/anh, chị đến với Chia Sẻ Tâm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jJU5818lIVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jJU5818lIVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jJU5818lIVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chia sẻ Tâm tình Qua Âm Nhạc",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/g-ZYYbxYdfRSWb-S8149IVXvaZc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "22gs2IShgAc"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-27T23:16:53.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "Liên Khúc Nhạc Trữ Tình Dân Ca Bolero -Những Ca Khúc Nhạc Vàng Bolero, Nhạc Sến Trữ Tình Hay Nhất",
+                "description": "Liên Khúc Nhạc Trữ Tình Dân Ca Bolero -Những Ca Khúc Nhạc Vàng Bolero, Nhạc Sến Trữ Tình Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/22gs2IShgAc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/22gs2IShgAc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/22gs2IShgAc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pHHLXmmd6hjXq2_HHQg2eewQ0fg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QHOILh9pjKw"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-01T09:18:25.000Z",
+                "channelId": "UCkHASsLOHuddMTzARove3AA",
+                "title": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử",
+                "description": "Kẻ Ở Miền Xa GIANG TỬ - Nhạc Vàng Hải Ngoại Xưa Hay Nhất Của Giang Tử Danh sách bài hát: Kẻ ở miền xa Tình em biển rộng sông dài Đêm buồn tỉnh lẻ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QHOILh9pjKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QHOILh9pjKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QHOILh9pjKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Asia Entertainment Official",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/i0nsmWWAlbazp08AWddr0SMCsKQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fp0lgMJB6Ts"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-29T22:11:39.000Z",
+                "channelId": "UCjVwgRZsWbYgh6WyEH-jBUA",
+                "title": "Nhạc Trữ Tình Bolero 2020 Hay Nhức Nhối Cực Tê Tái Về Đêm➤Bolero Sến Xưa KHÔNG QUẢNG CÁO Cực Kì Hay",
+                "description": "Đăng kí kênh Miễn Phí : https://www.youtube.com/channel/UCjVwgRZsWbYgh6WyEH-jBUA?view_as=subscriber ➤ Tác Phẩm : Nhạc Trữ Tình Bolero 2020 Hay ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fp0lgMJB6Ts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fp0lgMJB6Ts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fp0lgMJB6Ts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kho Nhạc Sến",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/0ML96gKSkEeJzR949Djzo2Y5QW4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EGLAxZTC8xs"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-03T13:21:20.000Z",
+                "channelId": "UCJgGhYtcdr3lR-9fO4Ku1bA",
+                "title": "LK Nhạc Sống Người Mẫu Châu Á Hay Nhất - LK Nhạc Vàng Trữ Tình Remix - Tuyệt Đỉnh Nhạc Sống Remix",
+                "description": "LK Nhạc Sống Người Mẫu Châu Á Hay Nhất - LK Nhạc Vàng Trữ Tình Remix - Tuyệt Đỉnh Nhạc Sống Remix Chào mừng các bạn đến với kênh của Tuyệt Đỉnh..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EGLAxZTC8xs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EGLAxZTC8xs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EGLAxZTC8xs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tuyệt Đỉnh Nhạc Sống",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ycrJCD_LjpFRuPXQjnQx73sR3xg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fdV_vXwvCVI"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-29T22:45:00.000Z",
+                "channelId": "UCuBjDpGCuDT5Aoecu0XW_GQ",
+                "title": "Liên Khúc Nhạc Trữ Tình Quê Hương Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất",
+                "description": "Liên Khúc Nhạc Trữ Tình Quê Hương Chọn Lọc - Những Ca Khúc Nhạc Trữ Tình Bolero, Nhạc Vàng Hay Nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fdV_vXwvCVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fdV_vXwvCVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fdV_vXwvCVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Dân Ca Quê Hương Miền Tây",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PmOOvD_WAGcm9J6sLteneZ_tVSM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Qxn6GKSDvg"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-30T00:25:02.000Z",
+                "channelId": "UCkpDzzzaSj5pqm6K_t2Zbng",
+                "title": "Nhạc Trữ Tình Bolero CỰC MỚI ĐÉT2020➤LK 3400 Bolero Nhạc Vàng CÀNG NGHE CÀNG THÍCH NƯC LÒNG",
+                "description": "LIÊN KHÚC TRỮ TÌNH BOLERO CỰC MỚI ĐÉT2020➤3400 Ca Khúc Bolero Nhạc Vàng CÀNG NGHE CÀNG THÍCH NƯC LÒNG Chào mừng các bạn đã đến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Qxn6GKSDvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Qxn6GKSDvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Qxn6GKSDvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhạc Không QuảngCáo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/VhyTyxNvdreVz1mSMXV026LBNKg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_iRAZz56n38"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-02T07:00:11.000Z",
+                "channelId": "UCL2dcc_OrhQhnHLCynoSDwg",
+                "title": "KARAOKE LIÊN KHÚC NHẠC SẾN TONE NỮ | THIỆP HỒNG ANH VIẾT TÊN EM | HOA MƯỜI GIỜ",
+                "description": "KARAOKETUANCO Danh Sách Bài Hát : Thiệp hồng anh viết tên em Thuyền xa bến đỗ Lá thư cuối cùng Lá thư đô thị Xin em đừng khóc vu quy Hoa mười giờ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_iRAZz56n38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_iRAZz56n38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_iRAZz56n38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Karaoke Tuấn Cò",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
