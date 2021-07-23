@@ -1,183 +1,692 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "SnKtj9b0R6qtuc-lyJjVmcRDgGk",
-    "nextPageToken": "CAUQAA",
-    "regionCode": "VN",
-    "pageInfo": {
-      "totalResults": 1000000,
-      "resultsPerPage": 5
-    },
-    "items": [
-      {
-        "kind": "youtube#searchResult",
-        "etag": "lDd59yodbEdLoQz7oi1o0cggukc",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "A7c_adFENCQ"
-        },
-        "snippet": {
-          "publishedAt": "2020-12-21T12:30:01Z",
-          "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
-          "title": "Bài Giảng Quá Hay: Chấp Nhận Càng Nhiều Thì Năng Lượng Bình An Càng Lớn - Thầy Thích Tâm Nguyên",
-          "description": "Thầy Thích Tâm Nguyên với bài giảng rất hay giúp cho rất nhiều người chuyển hóa nổi khổ niềm đau trong cuộc sống. ~~~~~~~~~~~ Kênh Thích Tâm Nguyên ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/A7c_adFENCQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/A7c_adFENCQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/A7c_adFENCQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-12-21T12:30:01Z"
-        }
+  "kind": "youtube#searchListResponse",
+  "etag": "OMIMlzo0q4AGw-6WgDFUkybbrfI",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RNiTa5Ym9LjtPaSbTddG88j_ddY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L2WSf2YD5Jc"
       },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "D9MxDQtGlahVPCdqwENAgxal_4I",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "xSkMlh-NSxs"
-        },
-        "snippet": {
-          "publishedAt": "2021-07-20T11:54:54Z",
-          "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
-          "title": "Cách Nào Để Thoát Khỏi Bi Kịch Đau Khổ Giông Bão Trong Đời Sống - Thầy Thích Tâm Nguyên",
-          "description": "Thầy Thích Tâm Nguyên cùng với cuộc trò chuyện với nhà báo Hoàng Anh Sướng giúp cho mỗi người hiểu được rất nhiều điều trong cuộc sống cách nào để ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+      "snippet": {
+        "publishedAt": "2018-03-23T04:25:21Z",
+        "channelId": "UCPS3YSb1qX31wxa-S4VonIg",
+        "title": "Bài Giảng Siêu Hại Não Của Thầy Thích Tâm Nguyên Nghe Hoài Không Chán",
+        "description": "Bài Giảng Siêu Hại Não Của Thầy Thích Tâm Nguyên Nghe Hoài Không Chán Kính chúc quý Phật tử, cùng các bạn, luôn thân tâm thường lạc, vạn sự kiết ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L2WSf2YD5Jc/default.jpg",
+            "width": 120,
+            "height": 90
           },
-          "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-07-20T11:54:54Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "FXYZWilBbtOanuEj0eGkNSJjFBw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "6p2yZUI7b1A"
-        },
-        "snippet": {
-          "publishedAt": "2021-07-09T12:28:45Z",
-          "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
-          "title": "Chính vị ngọt làm cho con người ta phải khổ đau - Thầy Thích Tâm Nguyên",
-          "description": "Tổng hợp những bài giảng hay nhất của Thầy Thích Tâm Nguyên sống ở Chùa Hoằng Pháp là những trải nghiệm tu học của Thầy Thích Tâm Nguyên tại Chùa ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6p2yZUI7b1A/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6p2yZUI7b1A/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6p2yZUI7b1A/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L2WSf2YD5Jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
           },
-          "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-07-09T12:28:45Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "puu3GENR3P3OeP35QARe7Ebw4rc",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "NU208QJ2JSk"
+          "high": {
+            "url": "https://i.ytimg.com/vi/L2WSf2YD5Jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        "snippet": {
-          "publishedAt": "2021-07-15T11:41:45Z",
-          "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
-          "title": "Đúng Sai Phải Trái Tốt Xấu Ở Đời - Thích Tâm Nguyên",
-          "description": "Một chia sẻ quá tâm đắc của Thầy Thích Tâm Nguyên người có phước đức là người có thể vượt qua mọi hoạn nạn khó khăn trong cuộc đời có đức thì mọi ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/NU208QJ2JSk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/NU208QJ2JSk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/NU208QJ2JSk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-07-15T11:41:45Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "hb5W5ozF99Hv8BOpnXhQboYep0Q",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "9Khqifu9Yrc"
-        },
-        "snippet": {
-          "publishedAt": "2020-03-11T13:00:11Z",
-          "channelId": "UChvh2hZh1TkbAShy6upeAeg",
-          "title": "Nóng giận là bản năng - Tĩnh lặng là bản lĩnh | Thầy Thích Tâm Nguyên mới nhất 2020",
-          "description": "Video này chia sẻ nghệ thuật vượt qua sóng gió cuộc đời bằng đức nhẫn nại một cách trí tuệ và tự tại. Thầy Thích Tâm Nguyên hiện đang trụ trì Tu Viện Hạnh ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/9Khqifu9Yrc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/9Khqifu9Yrc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/9Khqifu9Yrc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Thích Tâm Nguyên",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-03-11T13:00:11Z"
-        }
+        "channelTitle": "Pháp Thoại Hay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-23T04:25:21Z"
       }
-    ]
-  }
-  
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZHYXgOFW17Vhq020Pq6DrCZCi_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HSM5BzjUNAw"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-07T12:00:11Z",
+        "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
+        "title": "Thầy Thích Tâm Nguyên Kể 3 Câu Chuyện Hay Nhất Năm 2020 ai không nghe được tiếc lắm",
+        "description": "Thầy Thích Tâm Nguyên đã dồn bao tâm sức chọn lọc để gửi đến quý vị và các bạn 3 câu chuyện tuyệt hay này . Với những câu chuyện đạo lý sâu sắc giúp mỗi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HSM5BzjUNAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HSM5BzjUNAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HSM5BzjUNAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-07T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R40SqZIDDArW9K9HoU445jzXqlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uYXwj8XuMX8"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-16T13:21:00Z",
+        "channelId": "UCUrA8513RGkUrM7nHiEDzlQ",
+        "title": "Thầy Thích Tâm Nguyên  - Tuyển tập những bài giảng hay nhất - phần 1 - Chân lý cuộc sống",
+        "description": "Đăng ký kênh để nhận được thông báo khi có video mới nhất : https://www.youtube.com/channel/UCUrA8513RGkUrM7nHiEDzlQ?sub_confirmation=1 Kênh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYXwj8XuMX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYXwj8XuMX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYXwj8XuMX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chân Lý Cuộc Sống",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-16T13:21:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jr08h3Sqn1ExafcpEQPUpNvjPJk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6LQUIfhjXs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-22T12:30:11Z",
+        "channelId": "UC4ggb9_Avn-elvuEVsJYr2Q",
+        "title": "Pháp thoại Sống An Nhiên Giữa Hồng Trần - Thầy Thích Tâm Nguyên | Ai cũng nên nghe 1 lần | PGVN",
+        "description": "Trong cuộc sống hiện đại ngày nay, con người ngày càng phải đối diện với nhiều căng thẳng, mệt mỏi. Làm thế nào để sống hạnh phúc, an nhiên đã trở thành ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6LQUIfhjXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6LQUIfhjXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6LQUIfhjXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Phật giáo Việt Nam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-22T12:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kVhqnyc_wOZ2XZvwR9pIIt5o5Co",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YANVR-u8ZKA"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-23T03:09:22Z",
+        "channelId": "UCGfw9aQJOMIAYU1ZuvxeznQ",
+        "title": "Sư thầy Thích Tâm Nguyên có giọng hát ngọt ngào hát SAU TẤT CẢ câm nín cả giảng đường",
+        "description": "PHÁP THOẠI HOẰNG PHÁP là kênh Youtube chuyên đăng tải các bài giảng (pháp thoại) Phật giáo của những giảng sư hàng đầu hiện nay: Thích Chân Tính, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YANVR-u8ZKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YANVR-u8ZKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YANVR-u8ZKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ánh Sáng Phật Pháp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-23T03:09:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eGPme8JW-0-zt8_IgcSVjpYmZiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WNoQyn_yj2k"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-16T12:00:15Z",
+        "channelId": "UChvh2hZh1TkbAShy6upeAeg",
+        "title": "Sống an nhiên giữa hồng trần | Thầy Thích Tâm Nguyên chia sẻ tại Hawaii, Mỹ 01/2020",
+        "description": "Bài giảng mới nhất 2020 của thầy Thích Tâm Nguyên Thầy Thích Tâm Nguyên hiện đang trụ trì Tu Viện Hạnh Phúc (Happy Monastery) tại Hoa Kỳ Địa chỉ: 4100 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WNoQyn_yj2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WNoQyn_yj2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WNoQyn_yj2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-16T12:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s_7hpxJWlflXCH0DS2aF80BpEkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SUOD8FoEOt0"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-01T02:24:44Z",
+        "channelId": "UCb5zH996psSozbbVhQTwm8g",
+        "title": "Tình yêu không có lỗi, lỗi ở… ? Thầy Thích Tâm Nguyên",
+        "description": "Tình yêu không có lỗi, lỗi ở… Bài giảng của thầy Tâm Nguyên Người giảng: Thích Tâm Nguyên kênh YouTube ''Double H'' Mời Bạn Đăng ký Theo Dõi Kênh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUOD8FoEOt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUOD8FoEOt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUOD8FoEOt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chánh Pháp Như Lai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-01T02:24:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iCrY8bpVx8P0_vv9BtMROoIg_kc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P83GH0WwVP0"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-08T12:26:56Z",
+        "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
+        "title": "Bài Giảng Quá Hay: Thầy Thích Tâm Nguyên và những truyện ngắn nói về cuộc sống",
+        "description": "Câu truyện là 1 trong những điều con người ta dể nghe dể hình dung nhất. Hôm nay Thầy Thích Tâm Nguyên với hơn 1h đồng hồ tổng hợp những câu truyện ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P83GH0WwVP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P83GH0WwVP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P83GH0WwVP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-08T12:26:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XiqwGHXHxDvWz7sqPQSaXNz4x7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "72T3cg0FRmk"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-21T12:10:48Z",
+        "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
+        "title": "Thầy Thích Tâm Nguyên Và Những Câu Chuyện Hay Thức Tỉnh Lòng Người",
+        "description": "Tổng hợp những bài giảng hay nhất của Thầy Thích Tâm Nguyên sống ở Chùa Hoằng Pháp là những trải nghiệm tu học của Thầy Thích Tâm Nguyên tại Chùa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72T3cg0FRmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72T3cg0FRmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72T3cg0FRmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-21T12:10:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KdD4RtjQM8OeBKJ1-I8_uYlma0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5swK1ly-bB0"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-02T12:30:10Z",
+        "channelId": "UChvh2hZh1TkbAShy6upeAeg",
+        "title": "Làm sao đứng vững giữa giông bão cuộc đời | Thầy Thích Tâm Nguyên chia sẻ tại Mỹ 01/2020",
+        "description": "Làm sao vượt qua những điều bất như ý trong cuộc đời Thầy Thích Tâm Nguyên hiện đang trụ trì Tu Viện Hạnh Phúc (Happy Monastery) tại Hoa Kỳ Địa chỉ: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5swK1ly-bB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5swK1ly-bB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5swK1ly-bB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-02T12:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "05CSHpNFgV_xN-oVnBABmfdIGBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sAooKgxChPI"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-01T04:54:12Z",
+        "channelId": "UCGfw9aQJOMIAYU1ZuvxeznQ",
+        "title": "Thích Tâm Nguyên | &quot;MẸ ???&quot; bài giảng rất hay bạn sẽ rớt nước mắt khi nghe",
+        "description": "Hoằng Pháp online là kênh Youtube chuyên đăng tải các bài giảng (pháp thoại) Phật giáo của những giảng sư hàng đầu hiện nay: Thích Chân Tính, Thích Nữ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAooKgxChPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAooKgxChPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAooKgxChPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ánh Sáng Phật Pháp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-01T04:54:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XvBmvZmh-vMyQbVi-LkVYM-DrzI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uZ44yvmBFkc"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-31T12:30:11Z",
+        "channelId": "UC4ggb9_Avn-elvuEVsJYr2Q",
+        "title": "Pháp thoại Sống Ảo - Thầy Thích Tâm Nguyên giảng cực hay | Bạn Trẻ Nào Cũng Nên Nghe 1 Lần | PGVN",
+        "description": "Sống ảo là hồi chuông cảnh báo cho những ai đang có hiện tượng nghiện mạng xã hội, đặc biệt là facebook. Nếu muốn tìm giá trị đích thực của cuộc sống, hãy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uZ44yvmBFkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uZ44yvmBFkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uZ44yvmBFkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Phật giáo Việt Nam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-31T12:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hg6lpepnDB5yoYUSzcrxj4Gh-o4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3VjtFf-RRoY"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-30T14:39:50Z",
+        "channelId": "UCb5zH996psSozbbVhQTwm8g",
+        "title": "Tình yêu không có lỗi, lỗi ở… ? Thầy Thích Tâm Nguyên - Chánh Pháp Như Lai",
+        "description": "Tình yêu không có lỗi, lỗi ở… ? Thầy Thích Tâm Nguyên - Chánh Pháp Như Lai Mời Bạn Đăng ký Theo Dõi Kênh. Website: chuahoangphap.com.vn ✓ Đại đức ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3VjtFf-RRoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3VjtFf-RRoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3VjtFf-RRoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chánh Pháp Như Lai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-30T14:39:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4dLFN8xIoBfXNty0kFWm1p-f8C0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dY7s7UCiHxw"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-10T03:00:02Z",
+        "channelId": "UC4ggb9_Avn-elvuEVsJYr2Q",
+        "title": "Những Câu Nói Bất Hủ Về Tình Yêu Của Thầy Thích Tâm Nguyên - Bạn Trẻ Nào Cũng Nên Nghe 1 Lần | PGVN",
+        "description": "Đại đức Thích Tâm Nguyên tuy còn trẻ tuổi nhưng đã có nhiều năm tu học phật pháp, thường xuyên tham gia các buổi tọa đàm chia sẻ về tư tưởng và triết lý của ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dY7s7UCiHxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dY7s7UCiHxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dY7s7UCiHxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Phật giáo Việt Nam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-10T03:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92lGu7Ky5e_VvwtxB4WCSK7H-ig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YnnRxRyj-yk"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-16T03:09:21Z",
+        "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
+        "title": "Thầy Thích Tâm Nguyên kể chuyện ai có duyên nghe để học được nhiều bài học sâu sắc",
+        "description": "Những câu chuyện Thầy Thích Tâm Nguyên kể mang giá trị triết lí sâu sắc những bài học về cuộc sống giá trị ai có duyên nghe ~~~~~~~~~~~ Kênh Thích Tâm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YnnRxRyj-yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YnnRxRyj-yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YnnRxRyj-yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-16T03:09:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9kaXN3cmAXOYB633jelkT0zKKHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_GXxvTggqjQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-24T00:30:09Z",
+        "channelId": "UCUrA8513RGkUrM7nHiEDzlQ",
+        "title": "Thầy Thích Tâm Nguyên -  Bí Mật - Chân lý cuộc sống",
+        "description": "Đăng ký kênh để nhận được thông báo khi có video mới nhất : https://www.youtube.com/channel/UCUrA8513RGkUrM7nHiEDzlQ?sub_confirmation=1 Kênh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_GXxvTggqjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_GXxvTggqjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GXxvTggqjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chân Lý Cuộc Sống",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-24T00:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-MYKPVBQjuAQI6kO2JgT8akd11Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z3GKd8YMSA8"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-12T06:04:35Z",
+        "channelId": "UCJnS2sfAA_hJ84sPmvwzDWw",
+        "title": "3 Bài Giảng Hay Nhất Lịch Sử Của Thầy Thích Tâm Nguyên",
+        "description": "3 Bài Giảng Hay Nhất Lịch Sử Của Thầy Thích Tâm Nguyên -------------------- HỆ THỐNG PHÁP VIỆT NAM ✓ \" Kênh \"Chuyến Xe Hoằng Pháp\" được hình thành ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3GKd8YMSA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3GKd8YMSA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3GKd8YMSA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chuyến Xe Hoằng Pháp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-12T06:04:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D9MxDQtGlahVPCdqwENAgxal_4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xSkMlh-NSxs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-20T11:54:54Z",
+        "channelId": "UCPVYP_9oLz6P2dV4kWR6DVw",
+        "title": "Cách Nào Để Thoát Khỏi Bi Kịch Đau Khổ Giông Bão Trong Đời Sống - Thầy Thích Tâm Nguyên",
+        "description": "Thầy Thích Tâm Nguyên cùng với cuộc trò chuyện với nhà báo Hoàng Anh Sướng giúp cho mỗi người hiểu được rất nhiều điều trong cuộc sống cách nào để ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xSkMlh-NSxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thích Tâm Nguyên - Vấn Đáp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-20T11:54:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VszRv58t1Wr3lklG-OVWnn30MwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "96Pt9mkXugM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-15T04:22:25Z",
+        "channelId": "UCTLQn0sIFlFqy9N2PuhcQzg",
+        "title": "TIK TOK NHỮNG CÂU NÓI HAY CỦA THÍCH TÂM NGUYÊN - BẠN SẼ KHÓC KHI XEM VIDEO NÀY | XEM MÀ NGẪM..",
+        "description": "TIK TOK NHỮNG CÂU NÓI HAY CỦA THÍCH TÂM NGUYÊN - BẠN SẼ KHÓC KHI XEM VIDEO NÀY | XEM MÀ NGẪM..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/96Pt9mkXugM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/96Pt9mkXugM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/96Pt9mkXugM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MOVIES REVIEW",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-15T04:22:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ak-_kpwToMlQIDKBtabZaCN5pOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p6oyyXdGTck"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-15T00:57:39Z",
+        "channelId": "UCb5zH996psSozbbVhQTwm8g",
+        "title": "Hàng Triệu Người Phải Khóc Khi Nghe Câu Chuyện Thầy (Thích Tâm Nguyên)",
+        "description": "Người giảng: THÍCH TÂM NGUYÊN kênh YouTube PHÁP VIÊN Media Mời Bạn Đăng ký Theo Dõi Kênh --------------------------------- ✓ \" Thầy giảng trong khóa tu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6oyyXdGTck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6oyyXdGTck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6oyyXdGTck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chánh Pháp Như Lai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-15T00:57:39Z"
+      }
+    }
+  ]
+}
