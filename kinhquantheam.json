@@ -1,0 +1,693 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "zHt0lPRUTZGPUOwIj08ijDr3A6I",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 20
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gNuoobnidbVtC9V3Ng1uzJSjfyk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qEe_VzaL0MM"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-18T10:11:44Z",
+          "channelId": "UCOjGSteJDjfsKec0xFv8bnA",
+          "title": "Mỗi Tối Ai Mở Kinh Này Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi, PHÚC LỘC ĐẦY NHÀ !",
+          "description": "Mỗi Tối Ai Mở Kinh Này Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi PHÚC LỘC ĐẦY NHÀ Tụng Chú Đại Bi : Đại Đức Thích Trí Thoát Chú Đại Bi là bài chú ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qEe_VzaL0MM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qEe_VzaL0MM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qEe_VzaL0MM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Niệm Phật Thành Phật",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-18T10:11:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EoZ4SUKcMpo6xgB4yWgCuvMdX3o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "smpDrcs9qYE"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-03T13:27:28Z",
+          "channelId": "UCAAEswHFqR2XrkJAuch2HKg",
+          "title": "TỤNG Kinh Cứu Khổ Cứu Nạn Quán Thế Âm Bồ Tát, Kinh Phật Giáo Phẩm Phổ Môn, Đ Đ Thích Vạn Mãn",
+          "description": "TỤNG Kinh Cứu Khổ Cứu Nạn Quán Thế Âm Bồ Tát, Phẩm Phổ Môn, Đ Đ Thích Vạn Mãn Kênh này mang điến kiến thức về phật giáo những lời dậy của đức ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/smpDrcs9qYE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/smpDrcs9qYE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/smpDrcs9qYE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Giáo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-03T13:27:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xOOS87TJNvdPXEpLM29oo5LAOjQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xPpaP5wjzPw"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-05T12:00:34Z",
+          "channelId": "UCcFt6qFIRZsMis-tSlPmU9Q",
+          "title": "QUAN ÂM CỨU KHỔ CHƠN KINH | nam mô đại từ đại bi cứu khổ cứu nạn Quan Thế Âm bồ tát  | Kinh Đại Thừa",
+          "description": "https://drive.google.com/file/d/1wrKs1_e7bpmFi054naGktTCS9qI5dpel/view?usp=drivesdk file worl phần kinh này. mọi người photo là được ạ Quan âm cứu khổ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xPpaP5wjzPw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xPpaP5wjzPw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xPpaP5wjzPw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NT92 Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-05T12:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-TMggR0Y0M8cyBVXnvvoXEGrvHI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8TodzeWRL6Q"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-13T12:33:34Z",
+          "channelId": "UCD7BHnZg0eVU74RJiSSzEDg",
+          "title": "Ở Trong Nhà Nghe Kinh Này Điều Được Quán Thế Âm Bồ Tát Phù Hộ Gia Đạo Bình An",
+          "description": "Ở Nghe Kinh Này Điều Được Quán Thế Âm Bồ Tát Phù Hộ Gia Đạo Bình An Nam Mô A Di Đà Phật kính chúc các bạn và quý phật tử thân tâm thường an lạc tật ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8TodzeWRL6Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8TodzeWRL6Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8TodzeWRL6Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MP3 PHẬT GIÁO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-13T12:33:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_MNAKy1GAjqE4kugE6PexNM8ZYM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8jAsdHWkZps"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-12T02:59:11Z",
+          "channelId": "UCpJvUzpCzZVcbjT-UWYVoFA",
+          "title": "QUAN ÂM CỨU KHỔ CHƠN KINH ... NAM MÔ QUAN THẾ ÂM BỒ TÁT",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8jAsdHWkZps/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8jAsdHWkZps/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8jAsdHWkZps/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Quách hồng Phi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-12T02:59:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6S8LuK2OWMbs4DG6u1GhAmAU5SY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hdvOg19Ozz0"
+        },
+        "snippet": {
+          "publishedAt": "2011-12-23T05:28:40Z",
+          "channelId": "UCRzB75WsAA_pNRyrQ6SvuEA",
+          "title": "Kinh Quán Thế Âm Bồ Tát Đại Bi Tâm Đà La Ni - DieuPhapAm.Net",
+          "description": "Kinh Quán Thế Âm Bồ Tát Đại Bi Tâm Đà La Ni - DieuPhapAm.Net.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdvOg19Ozz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdvOg19Ozz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdvOg19Ozz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "nhanqualuanhoi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-12-23T05:28:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gtLEcsxi_VcNFGnpm-5nLjiWYdU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LiHUTWFe3Qo"
+        },
+        "snippet": {
+          "publishedAt": "2013-03-22T12:57:33Z",
+          "channelId": "UClYms7IaRcAbLeJr7vSLFmA",
+          "title": "Kinh Quán Thế Âm Bồ Tát Thọ Ký - Phim Phật Giáo",
+          "description": "Kinh Quán Thế Âm Bồ Tát Thọ Ký Sūtra of the Prophecy Bestowed upon Avalokiteśvara Bodhisattva Hán dịch: Hoàng Long Sa-môn Đàm-vô-kiệt đời Tống Việt ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LiHUTWFe3Qo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LiHUTWFe3Qo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LiHUTWFe3Qo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Linh Minh Trạm Tịch",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-03-22T12:57:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UoudKry32kjzPxL-aimHBYrmqN0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UJ5gT9Qe2ag"
+        },
+        "snippet": {
+          "publishedAt": "2021-03-30T21:45:03Z",
+          "channelId": "UCk1p7aRX31FEKATU7YMKthg",
+          "title": "Tối 13 Âm LỄ Vía Quáng Âm Nghe Kinh Bồ Tát  PHÙ HỘ Tai Qua Nạn Khỏi Tài Lộc Ùa Tới Ngay !",
+          "description": "Tối 13 Âm LỄ Vía Quáng Âm Nghe Kinh Bồ Tát PHÙ HỘ Tai Qua Nạn Khỏi Tài Lộc Ùa Tới Ngay ! Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam Mô A Di Đà Phật ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UJ5gT9Qe2ag/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UJ5gT9Qe2ag/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UJ5gT9Qe2ag/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kinh Phật Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-03-30T21:45:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kCEeKqMc_O4Ne1zwDZpSbf5mhJ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RLxV3T2b524"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-29T13:01:35Z",
+          "channelId": "UCLb--AGyK0RN59cEhmsNzgw",
+          "title": "Nghe Nhạc Niệm Phật Mẹ Quán Âm Bồ Tát- Giúp tai qua nạn khỏi- Mọi chuyện suôn sẻ, gặp nhiều may mắn!",
+          "description": "Những lợi ích khi niệm Quán Thế Âm Bồ Tát ♥ Bạn thường niệm Quán Thế Âm Bồ-tát: Bạn sẽ không còn tánh tham. Vì Bồ-tát sẽ giúp cho bạn nuôi lớn lòng từ, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RLxV3T2b524/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RLxV3T2b524/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RLxV3T2b524/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "THÍCH TĨNH TÂM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-29T13:01:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QDNa2gFHcCf28Ux3SZLZv7ZodF0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uRsq9nvPqUA"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-21T14:44:41Z",
+          "channelId": "UCXbBOZ1G3DUzLdR0eBdE0fA",
+          "title": "KINH QUÁN ÂM CỨU KHỔ - ĐỌC CHẬM(có chữ, giọng Nữ)–“ĐỌC KINH NÀY CÓ THỂ CỨU VỚT TRĂM NGÀN KHỔ ÁCH“",
+          "description": "tamtutv KINH QUÁN ÂM CỨU KHỔ - ĐỌC CHẬM(có chữ, giọng Nữ)–“ĐỌC KINH NÀY CÓ THỂ CỨU VỚT TRĂM NGÀN KHỔ ÁCH“ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uRsq9nvPqUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uRsq9nvPqUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uRsq9nvPqUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TÂM TỪ TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-21T14:44:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "E4RWa7oMqcqHP6Ely4AwRMIHHgg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vB1H5cwZrE4"
+        },
+        "snippet": {
+          "publishedAt": "2017-08-01T13:59:39Z",
+          "channelId": "UCAAEswHFqR2XrkJAuch2HKg",
+          "title": "Tụng Kinh Sám Hối Quán Thế Âm Bồ Tát phù hộ độ trì cứu khổ cứu nạn tiêu trừ nghiệp chướng May Mắn",
+          "description": "Tụng Kinh Sám Hối Quán Thế Âm Bồ Tát phù hộ độ trì cứu khổ cứu nạn tiêu trừ nghiệp chướng May Mắn Đăng ký kênh: https://goo.gl/vmfKbg Để luôn được cập ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vB1H5cwZrE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vB1H5cwZrE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vB1H5cwZrE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Giáo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-08-01T13:59:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j39prF1Hr8L1FJajoxSy9-4FPWc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kjJgPe1EDCs"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-24T05:06:33Z",
+          "channelId": "UCJE4GAjKhBFLCGLrw8KpL3Q",
+          "title": "NAM MÔ QUAN THẾ ÂM BỒ TÁT - RẤT HAY Nghe Mỗi Đêm Phật bà phù hộ cứu khổ cứu nạn May mắn",
+          "description": "phậtphápvôbiên https://youtu.be/WYBfCWXrYxM https://youtu.be/-7dNfJ81--g https://youtu.be/hW02YjMC1yE https://youtu.be/yc7QNQXya0Y ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kjJgPe1EDCs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kjJgPe1EDCs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kjJgPe1EDCs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Pháp Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-24T05:06:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UgtyeGLfZk_H78T-HyB9zVtFhEA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yxolt64FeJg"
+        },
+        "snippet": {
+          "publishedAt": "2021-01-12T12:00:20Z",
+          "channelId": "UCk1p7aRX31FEKATU7YMKthg",
+          "title": "Sáng 14 Rằm Âm Nghe Kinh Cầu An Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi Phúc Tài Lộc Vào Nhà",
+          "description": "Sáng 14 Rằm Âm Nghe Kinh Cầu An Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi Phúc Tài Lộc Vào Nhà Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam Mô A Di ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yxolt64FeJg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yxolt64FeJg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yxolt64FeJg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kinh Phật Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-01-12T12:00:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DuQ3mYUq3BjXyUnaexbJ2s03sKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_oVBhFv1eMg"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-30T01:35:02Z",
+          "channelId": "UCTVImSF2qwJ1oWHbwGQB88Q",
+          "title": "KINH QUAN ÂM BỒ TÁT CỨU KHỔ CỨU NẠN ( KHÔNG QUẢNG CÁO )",
+          "description": "Quán Thế Âm (Tiếng Phạn: अवलोकितेश्वर nghĩa là \"Đấng quán chiếu âm thanh của thế gian\") là một vị Bồ-tát hiện thân cho lòng từ bi của tất cả chư Phật.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_oVBhFv1eMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_oVBhFv1eMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_oVBhFv1eMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PHẬT PHÁP MÀU NHIỆM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-30T01:35:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YQb8IqxTPV1JzrRChJh5L5QZFXQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hyVwmqZOVsM"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-19T14:13:44Z",
+          "channelId": "UCUBlLss84u3GoQqZOYU_9GQ",
+          "title": "&quot;Nếu&quot; Ai Nghe Hết Kinh Cầu An Cứu Khổ Cứu Nạn Dù Chỉ 1 Lần Sẽ Thấy Linh Nghiệm Vô Cùng🙏🙏🙏",
+          "description": "Đón Xem Toàn Bộ Videos Phật giáo tại đây: https://goo.gl/qMczyT Nếu Ai Nghe Hết Kinh Cầu An Cứu Khổ Cứu Nạn Dù Chỉ 1 Lần Sẽ Thấy Linh Nghiệm Vô ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hyVwmqZOVsM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hyVwmqZOVsM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hyVwmqZOVsM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tâm Linh 24h",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-19T14:13:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LHAL6MtHcdzduT3kZacug659GB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4VXTeFN2Gio"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-09T04:03:44Z",
+          "channelId": "UCOjGSteJDjfsKec0xFv8bnA",
+          "title": "Nghe Kinh Này Mỗi Tối Mẹ Quan Âm Phù Hộ Tài Lộc Đầy Nhà ,Sức Khỏe Phước Đức Hưởng Cả Đời",
+          "description": "Niệm Phật Thành Phật là kênh tổng hợp kinh tụng phật giáo Tuyển Chọn hay nhất và mới nhất của nhiều Đại Đức, Thượng Tọa với giọng tụng kinh tuyệt hay ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4VXTeFN2Gio/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4VXTeFN2Gio/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4VXTeFN2Gio/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Niệm Phật Thành Phật",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-09T04:03:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WHJ2TCo1wBzI0zFghJlPnj3DJ1w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YI7aZeQncHE"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-23T21:45:01Z",
+          "channelId": "UCk1p7aRX31FEKATU7YMKthg",
+          "title": "Trưa 14 Rằm Âm Mở Nghe Kinh Cầu An Bồ Tát PHÙ HỘ Tai Qua Nạn Khỏi Tài Lộc Ùa Tới Tấp Nập !",
+          "description": "Trưa 14 Rằm Âm Mở Nghe Kinh Cầu An Bồ Tát PHÙ HỘ Tai Qua Nạn Khỏi Tài Lộc Ùa Tới Tấp Nập ! Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam Mô A Di Đà ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YI7aZeQncHE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YI7aZeQncHE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YI7aZeQncHE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kinh Phật Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-23T21:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aAvAMRFjSpQ5LcmnxI8Z1z0e6Vw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hkSOd_PQlWc"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-11T13:30:20Z",
+          "channelId": "UCcFt6qFIRZsMis-tSlPmU9Q",
+          "title": "KINH CỨU KHỔ ( 7 biến )- QUAN ÂM BỒ TÁT cứu khổ cứu nạn bình an qua đại dịch COVID",
+          "description": "KINH CỨU KHỔ Nam mô đại từ đại bi quảng đại linh cảm Quan Thế Âm Bồ Tát. (3 lần) Nam mô cứu khổ cứu nạn Quan Thế Âm Bồ Tát. (3 lần) Bá thiên vạn ức ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hkSOd_PQlWc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hkSOd_PQlWc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hkSOd_PQlWc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NT92 Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-11T13:30:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6RbEc76J-AugRWPQxHyNBulj9Ts",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OiaVFCibDjQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-16T21:45:01Z",
+          "channelId": "UCk1p7aRX31FEKATU7YMKthg",
+          "title": "Tối 13 Âm Ai Mở Kinh Này Trong Nhà Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi, PHÚC LỘC ĐẦY",
+          "description": "Tối 13 Âm Ai Mở Kinh Này Trong Nhà Phật Bà Quán Âm PHÙ HỘ Tai Qua Nạn Khỏi, PHÚC LỘC ĐẦY NHÀ Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam Mô A ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OiaVFCibDjQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OiaVFCibDjQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OiaVFCibDjQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kinh Phật Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-16T21:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FZWA0mqizvTzF3QpR70q3Bx8S1M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L-VfoMgJAzI"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-08T12:45:00Z",
+          "channelId": "UCZHWEFg6DdKCrq-287gpyUg",
+          "title": "Bật Kinh Này Mỗi Đêm Bồ Tát Phù Hộ Tài Lộc Đầy Nhà Sức Khỏe Phước Đức Hưởng Cả Đời",
+          "description": "Bật Kinh Này Mỗi Đêm Bồ Tát Phù Hộ Tài Lộc Đầy Nhà Sức Khỏe Phước Đức Hưởng Cả Đời CƠ HỘI ĐỔI ĐỜI NẮM GIỮ CỔ PHẦN CÔNG NGHỆ SKYWAY ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L-VfoMgJAzI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L-VfoMgJAzI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L-VfoMgJAzI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Xem Ngay 24H",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-08T12:45:00Z"
+        }
+      }
+    ]
+  }
+  

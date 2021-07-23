@@ -1,0 +1,693 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Qg_I-krzCDUgQ7SdoYNdsdFzV3k",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 20
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rOhOvRPSSF9wTREnPdyHW2atuw4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5la-Bo0RyBQ"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-10T01:49:26Z",
+          "channelId": "UCDlgTcH9j4fC84uM1h6rCSA",
+          "title": "Mẹ Hiền Quan Thế Âm - Những Ca Khúc Về Phật Giáo Hay Nhất Nhạc Phật Bolero Chọn Lọc",
+          "description": "Mẹ Hiền Quan Thế Âm - Những Ca Khúc Về Phật Giáo Hay Nhất Nhạc Phật Bolero Chọn Lọc ......................................................................... ➥ Đăng Ký ủng hộ mình ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5la-Bo0RyBQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5la-Bo0RyBQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5la-Bo0RyBQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TQT Music",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-10T01:49:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "klUgA5_ITTwwIVW3xw5KeCrBX9c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yjRAvL7vSG4"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-17T12:00:10Z",
+          "channelId": "UCQuhZGJ5UmDF5gYnfQjbBRA",
+          "title": "Nhạc Phật Giáo Tĩnh Tâm Nghe Là Ngủ - Những Ca Khúc Phật Giáo Hay Nhất 2019",
+          "description": "Đăng kí theo dõi kênh: https://goo.gl/CPhZD5 ▻Facebook : https://goo.gl/yN2F3c ---------------------------------------------- ▻Nhạc Sống Duy Phường Hay Nhất ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yjRAvL7vSG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yjRAvL7vSG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yjRAvL7vSG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Tuyển Chọn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-17T12:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2_e-fNoiHNcOCFB3eOksKejYZLU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Npw3ixiHG0w"
+        },
+        "snippet": {
+          "publishedAt": "2021-01-08T07:35:38Z",
+          "channelId": "UCYp9rBWMqFyh43RseUJYSIw",
+          "title": "Nhạc Phật Giáo 2021 | Những Bài Hát Nhạc Phật Tuyển Chọn Hay Nhất 2021",
+          "description": "Nhạc Phật Giáo 2021 | Những Bài Hát Nhạc Phật Tuyển Chọn Hay Nhất 2021 ღ Đăng ký kênh: http://bit.ly/NamVietBolero #nhacphat #phatgiao Danh sách ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Npw3ixiHG0w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Npw3ixiHG0w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Npw3ixiHG0w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nam Việt Bolero",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-01-08T07:35:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MAXxbnJyME-f1ELvfFSkDvXESo0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M6Sil3wUCiE"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-29T03:00:40Z",
+          "channelId": "UCYp9rBWMqFyh43RseUJYSIw",
+          "title": "Nhạc Phật Tuyển Chọn Hay Nhất 2020 | Album Nhạc Phật Kiếp Nhân Sinh, Cát Bụi Cuộc Đời",
+          "description": "nhacphat Nhạc Phật Tuyển Chọn Hay Nhất 2020 | Album Nhạc Phật Kiếp Nhân Sinh, Cát Bụi Cuộc Đời ღ Đăng ký kênh: http://bit.ly/NamVietBolero Danh sách ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M6Sil3wUCiE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M6Sil3wUCiE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M6Sil3wUCiE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nam Việt Bolero",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-29T03:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i6ewd_UL7xnxDym7EAhIGI8hcB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uuCooiX0a4c"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-12T20:17:47Z",
+          "channelId": "UC5Dvm9DCgx4ypSzYiWJr-og",
+          "title": "Tuyển Tập Nhạc Phật Giáo Việt Nam Hay Nhất 2016",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uuCooiX0a4c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uuCooiX0a4c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uuCooiX0a4c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ThanhNhan Gem TRAN",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-12T20:17:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "T6B9fA-myeQrKNgxIR10_7ZwV60",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xmiJRwGy2Ng"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-08T13:00:30Z",
+          "channelId": "UCuSQdqgTVsVU85PBlsWmibQ",
+          "title": "Cõi Phật A Di Đà | Hùng Thanh",
+          "description": "Bài hát: Cõi Phật A Di Đà Ca sĩ: Hùng Thanh Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPS-qh-1 Hãy Subscribe kênh ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xmiJRwGy2Ng/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xmiJRwGy2Ng/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xmiJRwGy2Ng/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "POPS Music - Quê Hương",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-08T13:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HdMJjNYADpbzQSd2bFKI9YEalHM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "x2zRJBw-TZU"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-01T11:48:27Z",
+          "channelId": "UCQuhZGJ5UmDF5gYnfQjbBRA",
+          "title": "Sư thầy Hát Nhạc Phật Giáo Hay Nhất Việt Nam 2020 - Cầu Bình An Đầu Năm",
+          "description": "Đăng kí theo dõi kênh: https://goo.gl/CPhZD5 ▻Facebook : https://goo.gl/yN2F3c ---------------------------------------------- ▻Nhạc Sống Duy Phường Hay Nhất ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x2zRJBw-TZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x2zRJBw-TZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x2zRJBw-TZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Tuyển Chọn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-01T11:48:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6cJCkPbwho_AsEEXEeXJuuqH9Po",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NN2TNs8lvRU"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-28T03:52:17Z",
+          "channelId": "UCvtYsBmiZzGu5FWD7jfnTqw",
+          "title": "Bài hát Phật giáo Việt Nam - Lê Cao Phan",
+          "description": "Bài hát Phật giáo Việt Nam - Lê Cao Phan - Trung tâm Văn hóa Văn nghệ Phật giáo Nhất Chi Mai.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NN2TNs8lvRU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NN2TNs8lvRU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NN2TNs8lvRU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Người Phật Tử Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-28T03:52:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3jYYV5GMqerll2w5df8uS4NayOY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uqKaHUNCQ-A"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-03T01:40:12Z",
+          "channelId": "UC-spj2hyaKWOriyVAc2L_YQ",
+          "title": "Phật giáo Việt Nam (Đạo ca) - Trung tâm Âm nhạc Linh An  [Official Music Video]",
+          "description": "MV Phật giáo Việt Nam (Đạo ca) được ca sĩ Hiền Anh Sao Mai phát hành nhân dịp kỉ niệm đại lễ phật đản năm 2017 (Phật lịch: 2561). Kênh Youtube chính thức ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uqKaHUNCQ-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uqKaHUNCQ-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uqKaHUNCQ-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiền Anh Sao Mai",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-03T01:40:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qIGN5_EmlZsY662vMmUsmMcgiCM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NPCs_QmhEJ4"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-10T02:40:56Z",
+          "channelId": "UCYp9rBWMqFyh43RseUJYSIw",
+          "title": "Nhạc Phật Hay Nhất 2021 - Cát Bụi Cuộc Đời, Kiếp Nhân Sinh | Album Nhạc Phật Giáo Hay Nhất 2021",
+          "description": "Nhạc Phật Hay Nhất 2021 - Cát Bụi Cuộc Đời, Kiếp Nhân Sinh | Album Nhạc Phật Giáo Hay Nhất 2021 ღ Đăng ký kênh: http://bit.ly/NamVietBolero Danh sách ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NPCs_QmhEJ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NPCs_QmhEJ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NPCs_QmhEJ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nam Việt Bolero",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-10T02:40:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "10M_kk-qx3qcCrFRqLXTKWT6jwk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zOuKnLc9CCk"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-28T11:17:33Z",
+          "channelId": "UCQuhZGJ5UmDF5gYnfQjbBRA",
+          "title": "1000 Lần Nghe Thì 999 Lần Khóc - Nhạc Phật Giáo Hát Về Cha Mẹ Nghe Là Khóc",
+          "description": "Đăng kí theo dõi kênh: https://goo.gl/CPhZD5 ▻Facebook : https://goo.gl/yN2F3c ---------------------------------------------- ▻Nhạc Sống Duy Phường Hay Nhất ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zOuKnLc9CCk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zOuKnLc9CCk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zOuKnLc9CCk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Tuyển Chọn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-28T11:17:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MW7Tss3Dn05o5K4D5vuapi0nCPA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "40NhUuJSyVM"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-10T13:00:05Z",
+          "channelId": "UCUgXK2UjZ8G_EM438aYkGrw",
+          "title": "Tán Thán Cõi Phật A Di Đà | Hùng Thanh",
+          "description": "Bài hát: Cõi Phật A Di Đà Ca sĩ: Hùng Thanh Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPSmusic-1 POPS Music ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/40NhUuJSyVM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/40NhUuJSyVM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/40NhUuJSyVM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "POPS MUSIC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-10T13:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o_E66j5QOMOyxB02h1vHYOauuHo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "o8yQkkFmiWQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-01T14:34:47Z",
+          "channelId": "UCx-JeGWAKqBiommdD2COvKg",
+          "title": "Ca sĩ Thủy Tiên lần đầu tiên hát nhạc Phật Giáo rất màu nhiệm",
+          "description": "Ca khúc : om mani padme hum.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o8yQkkFmiWQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o8yQkkFmiWQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o8yQkkFmiWQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Quỹ Bồ Đề Việt",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-01T14:34:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-maPAwHjQEzemuE91FQU2DxY_L4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PwhXlSMEyAU"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-16T14:00:35Z",
+          "channelId": "UCBUtJlPXVz_aUB8gT46wAQg",
+          "title": "TÁN THÁN CÕI PHẬT A DI ĐÀ - Ca Sĩ Hùng Thanh ( bản Mới - có phụ đề - Hình ĐẸP )",
+          "description": "Trung Tâm Dần Nguyệt không giữ bản quyền! Xin hoan nghênh chia sẻ, tải về up lại, phổ biến rộng rãi.... Công đức vô lượng...Xin cảm tạ !!! ---------- TÁN THÁN ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PwhXlSMEyAU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PwhXlSMEyAU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PwhXlSMEyAU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TRUNG TÂM PHÁT HÀNH DẦN NGUYỆT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-16T14:00:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kYzEH8u5Ib1GGmUW41VjGDY7bDs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JSHcyaywJH4"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-02T03:08:17Z",
+          "channelId": "UCVj67H7BUYlp9vTsbs_laqg",
+          "title": "Ca nương 7 tuổi Tú Thanh hát Lạy Phật Quan Âm khiến hàng ngàn phật tử xúc động",
+          "description": "Giọng Ca Nhí là kênh video cập nhật những tin tức, sản phẩm âm nhạc mới nhất của các ca sĩ nhí hot nhất hiện nay. ▻Tôi có sử dụng một số video ở những ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JSHcyaywJH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JSHcyaywJH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JSHcyaywJH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Giọng Ca Nhí",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-02T03:08:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TY8NDok-3B6lwokTwOPp_fsOSd4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6EAPMmzXdTo"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-03T07:35:26Z",
+          "channelId": "UCkY3WDvhLWJ9Tv3CjVHD4RA",
+          "title": "Nhạc Phật Giáo Hay Nhất 2018 – Nhạc Phật Về Cha Mẹ Khiến Cả Thế Giới Phải Khóc – Đồng Thanh Tâm",
+          "description": "Nhạc Phật Giáo Hay Nhất 2018 – Nhạc Phật Về Cha Mẹ Khiến Cả Thế Giới Phải Khóc – Đồng Thanh Tâm ➨ Google Plus : https://goo.gl/TMBqhH ➨ Subscribe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6EAPMmzXdTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6EAPMmzXdTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6EAPMmzXdTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ca Nhạc Tuyển Chọn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-03T07:35:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lh1P3FaSgO3Mjd04LKxSFaCm3b0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E_tDD5vm-ik"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-06T10:00:12Z",
+          "channelId": "UCUWb5y0kKyCldZTJcd54TYA",
+          "title": "Nhạc Phật Giáo  2020 ►Nhạc Phật Mẹ Quan Âm - Niềm An Vui  ► Nhạc Phật Giáo Chọn Lọc ►CS Ân Thiên Vỹ",
+          "description": "Thương Quá Việt Nam ✓ ☞ Xin mời quý vị và các bạn cùng thưởng thức Bản Nhạc Hay Nhất ☞ ☛ chúc quý vị và các bạn nghe nhạc Thật Vui Vẻ ✓ ▻ Sản ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E_tDD5vm-ik/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E_tDD5vm-ik/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E_tDD5vm-ik/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thương Quá Việt Nam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-06T10:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-syKUQQsh33dDa032g50eLB6zoI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8pJ3mHO79EM"
+        },
+        "snippet": {
+          "publishedAt": "2018-02-06T08:59:21Z",
+          "channelId": "UCK8hdkRHLOhDW5wBJxqhVQw",
+          "title": "Tuyển Tập 14 Bài Hát Nhạc Phật Ca Sĩ NGUYỄN ĐỨC Mới Và Hay Nhất 2018 | Nhạc Phật Giáo Hay Nhất 2018",
+          "description": "Tuyển Tập 14 Bài Hát Nhạc Phật Ca Sĩ NGUYỄN ĐỨC Mới Và Hay Nhất 2018 List bài hát : 01. Lạy phật quan âm 02. Tiếng mõ 03. Chúng mình cùng ăn chay ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8pJ3mHO79EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8pJ3mHO79EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8pJ3mHO79EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "VMG Music",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-02-06T08:59:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nX5vtqRFqLHlH-Bl45QGL_mQC8E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "odmaRX-kYG8"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-19T02:38:20Z",
+          "channelId": "UCQuhZGJ5UmDF5gYnfQjbBRA",
+          "title": "Đạo Làm Con Thương Lấy Cha Mẹ | Nhạc Phật Giáo Hát Về Mẹ Cảm Động Rơi Nước Mắt",
+          "description": "Đạo Làm Con Thương Lấy Cha Mẹ | Nhạc Phật Giáo Hát Về Mẹ Cảm Động Rơi Nước Mắt ▻Đăng kí theo dõi kênh: https://goo.gl/CPhZD5 ▻Facebook ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/odmaRX-kYG8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/odmaRX-kYG8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/odmaRX-kYG8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Việt Tuyển Chọn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-19T02:38:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xXeMwj0IcIU6tGkd41AyaxssbZE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JkmOJi42jC0"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-18T06:56:35Z",
+          "channelId": "UCBUtJlPXVz_aUB8gT46wAQg",
+          "title": "Tán Thán Phật A Di Đà Và Cõi Tây Phương Cực Lạc (Bản Chuẩn , Có Phụ Đề, Hình Đẹp)",
+          "description": "Trung Tâm Dần Nguyệt không giữ bản quyền! Xin hoan nghênh chia sẻ, tải về up lại, phổ biến rộng rãi.... Công đức vô lượng...Xin cảm tạ !!! ---------- Một câu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JkmOJi42jC0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JkmOJi42jC0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JkmOJi42jC0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TRUNG TÂM PHÁT HÀNH DẦN NGUYỆT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-18T06:56:35Z"
+        }
+      }
+    ]
+  }
+  

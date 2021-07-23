@@ -1,0 +1,693 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Ngt6MatRJkJFGLExFpUolOJ_Bk4",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 20
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n-aPg6Sa3Ild6uNkzfb3ebJso5Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PLhnOpCsUK4"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-27T06:33:26Z",
+          "channelId": "UCS0C6lTedgcEiT7nwgkK3hA",
+          "title": "BÁT NHÃ TÂM KINH 7 BIẾN CÓ CHỮ | Phật pháp vi diệu",
+          "description": "BÁT NHÃ TÂM KINH 7 BIẾN CÓ CHỮ | Phật pháp vi diệu. Thầy Thích Trí Thoát tụng. Bát Nhã Ba La Mật Đa Tâm Kinh là một bộ kinh rất ngắn của Đại Thừa Phật ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PLhnOpCsUK4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PLhnOpCsUK4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PLhnOpCsUK4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Pháp Vi Diệu - Phật Pháp Nhiệm Màu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-27T06:33:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L7QVh9JP2amUi-jjxTo2uZlZB5Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iL0z8bPVTcQ"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-21T01:28:20Z",
+          "channelId": "UCUJ9Azaaqmv-cieHc5QU8xw",
+          "title": "Bát Nhã Tâm Kinh (21 biến) | TT. Thích Trí Thoát",
+          "description": "Tâm Kinh Bát Nhã Ba La Mật Đa Quán tự tại bồ tát hành thâm Bát nhã ba la mật đa thời chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách. Xá Lợi Tử! Sắc bất ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iL0z8bPVTcQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iL0z8bPVTcQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iL0z8bPVTcQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thiện Nhuận",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-21T01:28:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TUtAI8Yqbk3n1n6M7a4pkt52uu8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4YE1TnTz6CU"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-05T14:17:24Z",
+          "channelId": "UCc_Dz3nWkW-yKTdtN7ZvY_A",
+          "title": "Bát Nhã Tâm Kinh ( Có Chữ ) -  ĐĐ Thích Trí Thoát",
+          "description": "Tụng Bát Nhã Tâm Kinh - ĐĐ.Thích Trí Thoát.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4YE1TnTz6CU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4YE1TnTz6CU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4YE1TnTz6CU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Đạo Vô Thượng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-05T14:17:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XwD4ZqzzeXkgipdhHVY7NMuqOp0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-gjji4Qofy0"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-25T08:53:54Z",
+          "channelId": "UCRbLjOkETKGQHmhBmwNWTPQ",
+          "title": "Bát nhã tâm kinh   21 Biến Tiếng Phạn   (Không Chèn Quảng Cáo)",
+          "description": "Có Thờ Có Thiêng - Có Kiêng Có Lành Hãy đổi vận của bạn nhé, đó là hãy sắm cho mình 1 chiếc nhẫn Bát Nhã Tâm Kinh. May mắn và Tài lộc luôn luôn đến ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-gjji4Qofy0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-gjji4Qofy0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-gjji4Qofy0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhu Cầu Cuộc Sống",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-25T08:53:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7U4fwgsP1g04JKFti3Ox2CkJ7rU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xafUFiH0Fp8"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-16T14:04:22Z",
+          "channelId": "UCclqBkBv-3vyd8HQ8wKn95Q",
+          "title": "HT. Thích Thanh Từ - Giải Thích Tường Tận Cắt Nghĩa Kinh Bát Nhã Tâm Kinh",
+          "description": "Mời quý vị cùng lắng lòng nghe Sư Ông Thích Thanh Từ Giải Thích Tường Tận Kinh Bát Nhã Tâm Kinh --------------- Quán tự tại bồ tát hành thâm Bát nhã ba la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xafUFiH0Fp8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xafUFiH0Fp8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xafUFiH0Fp8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Đạo Phật Ngày Nay",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-16T14:04:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J-Bb6bRTxHdAqUQBoHVmGdZqxQ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WVCDtsV0_SM"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-26T05:09:19Z",
+          "channelId": "UCd3PUBl7tfRgPlxfAY_bAjg",
+          "title": "BÁT NHÃ TÂM KINH | ĐẠI THẦN CHÚ TRẠM ĐẾN TÂM YÊU THƯƠNG, DIỆT TRỪ SÂN HẬN - KHỔ ĐAU",
+          "description": "Nên nghe ít nhất 1-2 lần/ngày để lĩnh hội năng lượng tích cực, diệt trừ sân hận - khổ đau !",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WVCDtsV0_SM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WVCDtsV0_SM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WVCDtsV0_SM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HANG AU MY RELAXING",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-26T05:09:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r8_ll1BYIaFy-WsDqeAbCol0rK0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W4GPEwoAFpg"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-12T09:12:47Z",
+          "channelId": "UCdCetDJVEYxYQ8f0cBuxNFg",
+          "title": "Bát Nhã Tâm Kinh - Không Lời",
+          "description": "Nhạc không lời - Bát nhã tâm kinh.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W4GPEwoAFpg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W4GPEwoAFpg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W4GPEwoAFpg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hoa Đạo Tâm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-12T09:12:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tBybv6kNPqoam2BjPzrIAo8wUqY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nQps-NZzHkg"
+        },
+        "snippet": {
+          "publishedAt": "2020-08-04T11:36:46Z",
+          "channelId": "UCVa--3NYKfTyT5xW1rXa3Tg",
+          "title": "Bát Nhã Tâm Kinh Giảng Giải Trọn Bộ - Hòa Thượng Tuyên Hóa ( giọng đọc hay )",
+          "description": "Bát Nhã Tâm Kinh Giảng Giải Trọn Bộ - Hòa Thượng Tuyên Hóa Hãy Đăng Ký + Thích + Chia Sẻ để nhận được những video hay nhất, mới nhất. Chân thành ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nQps-NZzHkg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nQps-NZzHkg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nQps-NZzHkg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Trí Tuệ Mỗi Ngày",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-08-04T11:36:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ccM-zgCDgBVIoAfva8Ziu8QaE8k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_Ki65A23nvE"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-04T19:31:29Z",
+          "channelId": "UCliX5AFiNqNUAwAWrXgiWbg",
+          "title": "Bát Nhã Tâm Kinh - Có chữ vừa chậm dễ tụng- 7 biến",
+          "description": "Nhẫn Bát Nhã - TH: https://bit.ly/3d6pNRs Các bạn muốn đăng ký mua vào link sau nhé: https://bit.ly/2Xb0ZCr Vòng đại bi: https://bit.ly/379LIoT Giọng tụng vừa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Ki65A23nvE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Ki65A23nvE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Ki65A23nvE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Guitar Phang",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-04T19:31:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DvRdILN6_vWUpFcICeATktNAS6w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sDR_5-v0mFE"
+        },
+        "snippet": {
+          "publishedAt": "2016-12-26T17:19:12Z",
+          "channelId": "UCbubYpJSuQvlGfpTlLmNIsQ",
+          "title": "Bát Nhã Tâm Kinh - Hòa Thượng Tuyên Hóa Giảng",
+          "description": "Tải về \"Bát Nhã Tâm Kinh Giảng Giải\" PDF: - HT Tuyên Hóa: http://bit.ly/GiangGiaiTamKinhPDF - HT Duy Lực: http://bit.ly/TamKinhGiangGiaiPDF Chữ Tâm nói ra ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sDR_5-v0mFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sDR_5-v0mFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sDR_5-v0mFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tổ Sư Thiền",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-12-26T17:19:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FasCjXF-tBQE4ucFVJPisNFsWgM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4qMMBjxOm_0"
+        },
+        "snippet": {
+          "publishedAt": "2020-10-23T11:30:11Z",
+          "channelId": "UCBUtJlPXVz_aUB8gT46wAQg",
+          "title": "Bát Nhã Tâm Kinh (Tiếng Phạn) - Tiêu trừ nghiệp chướng, hóa giải mọi khó khăn, đau khổ.",
+          "description": "Trung Tâm Dần Nguyệt không giữ bản quyền! Xin hoan nghênh chia sẻ, tải về up lại, phổ biến rộng rãi.... Công đức vô lượng...Xin cảm tạ !!! ---------- Ðiều cốt yếu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4qMMBjxOm_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4qMMBjxOm_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4qMMBjxOm_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TRUNG TÂM PHÁT HÀNH DẦN NGUYỆT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-10-23T11:30:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hLDi_LWni4xl2p0Qp_FpsiN-0Sk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q-j8_NUBxWI"
+        },
+        "snippet": {
+          "publishedAt": "2013-08-07T03:28:45Z",
+          "channelId": "UC51AUGQIAtXtcyfUvD6Rjaw",
+          "title": "Bát Nhã Tâm Kinh Phần 1  - Thầy Thích Phước Tiến",
+          "description": "Đăng ký kênh ngay: http://popsww.com/PhatPhapUngDung Thích Phước Tiến Mới Nhất - Bát Nhã Tâm Kinh Phần 1 (2011) Bài pháp thoại mới nhất của thầy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q-j8_NUBxWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q-j8_NUBxWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q-j8_NUBxWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Phật Pháp Ứng Dụng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-08-07T03:28:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7DoF7_TuXeHytFTh40Gr5YPyHLA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1AR3-vnY6dg"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-20T09:30:23Z",
+          "channelId": "UC4yUTIQZ9byIkEBs828tlTQ",
+          "title": "Bát nhã tâm kinh  |Sách nói THỨC TỈNH",
+          "description": "Bát nhã tâm kinh |Sách nói THỨC TỈNH.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1AR3-vnY6dg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1AR3-vnY6dg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1AR3-vnY6dg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thức tỉnh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-20T09:30:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y5D5g8A4iqFpZG0lQ_z-LE_VqSk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JOdaOtHn67c"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-03T23:00:11Z",
+          "channelId": "UC7dLt6Mhb_4OXO_d-WptB1g",
+          "title": "Giải Thích Ý Nghĩa BÁT NHÃ TÂM KINH  - Người Tu Phật Cần Phải Biết",
+          "description": "Giải thích Ý Nghĩa Bát Nhã Tâm Kinh - Người Tu Phật cần phải biết Bát Nhã Ba-La-Mật-Đa Tâm Kinh là bài kinh được tụng đọc tại các chùa theo hệ thống Phật ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JOdaOtHn67c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JOdaOtHn67c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JOdaOtHn67c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tâm Phật Việt",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-03T23:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cqSE7TSrrJvOBJHd9sUg3Ewdjo0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PH9c9p4TlI0"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-10T04:39:41Z",
+          "channelId": "UCf2hsAmJBsT0kXFMXcx0Tog",
+          "title": "Nhạc Thần chú Bát Nhã Tâm Kinh  (The Heart Sutra Mantra) - Tiếng Phạn",
+          "description": "Mẫu Tự Devanagari: गते गते पारगते पारसंगते बोधि स्वाहा ➤ Sanskrit - Tiếng Phạn: Gate, Gate, Pāragate, Pārasaṃgate, Bodhi Svāhā. (Phát Âm ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PH9c9p4TlI0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PH9c9p4TlI0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PH9c9p4TlI0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nghệ thuật Phật giáo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-10T04:39:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hwa4ZPblW3B2gF4gG6p8TTZeezc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m2Kpxtfp5Bs"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-06T14:00:06Z",
+          "channelId": "UCmryD9v9Qh_hkdZTEMjQ0Xw",
+          "title": "Lúc Nào Tụng Chú Đại Bi và Bát Nhã Tâm Kinh (vấn đáp) - Thầy Thích Pháp Hòa",
+          "description": "Lúc Nào Tụng Chú Đại Bi và Bát Nhã Tâm Kinh (vấn đáp) - Thầy Thích Pháp Hòa Đại chúng nhớ ấn vào nút \"\" Đăng ký '' hoặc \"'Subscribe\"\" để theo dõi thêm ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2Kpxtfp5Bs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2Kpxtfp5Bs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2Kpxtfp5Bs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vấn đáp Thầy Thích Pháp Hòa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-06T14:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yZaIItI1KrnJAwd2w4lxxBfNMk8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H82eSmHEeYw"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-10T01:30:00Z",
+          "channelId": "UCWUTe_gqXS9ofaHqSVoulzA",
+          "title": "► Thế nào là BÁT NHÃ ? Thầy Pháp Hòa trả lời quá hay (XUẤT BẢN 2019)",
+          "description": "Trích; THUYỀN TUỆ SANG SÔNG P1 Kênh Youtube đăng tải video chính thức về tất cả bài giảng của Thầy Thích Pháp Hòa Mời đại chúng bấm LIKE ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H82eSmHEeYw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H82eSmHEeYw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H82eSmHEeYw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pháp Thoại Thích Pháp Hòa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-10T01:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yp9HEkzPJ0Yk7GUzhwVbDgEhp-I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Lv7eA4Fvib8"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-14T14:15:01Z",
+          "channelId": "UCjfUlTvnSueyNfk-MjSK5gg",
+          "title": "Bát Nhã Tâm Kinh   Nhạc Phật Giáo hòa tấu đàn tranh êm dịu dễ ngủ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Lv7eA4Fvib8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Lv7eA4Fvib8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Lv7eA4Fvib8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Magic ThaiAmulet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-14T14:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fBBMC_vdcOqCC3wsmkOJ1SY3FHk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MrN9a8I0IUs"
+        },
+        "snippet": {
+          "publishedAt": "2015-09-08T15:05:27Z",
+          "channelId": "UCLVR8nXZ9z8b_GB1svf8PIg",
+          "title": "MA HA BÁT NHÃ BA LA MẬT ĐA TÂM KINH ( TIẾNG PHẠN )  VERSION 2",
+          "description": "Bồ Tát Quán Tự Tại Khi quán chiếu thâm sâu Bát Nhã Ba La Mật (tức Diệu Pháp Trí Ðộ) Bổng soi thấy năm uẩn Ðều không có tự tánh Thực chứng điều ấy xong ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MrN9a8I0IUs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MrN9a8I0IUs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MrN9a8I0IUs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thích Minh Hùng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-09-08T15:05:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "62WAX4YNG8mA2mKhGwfqnFySBCs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZgdjRJVPsmQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-04-08T01:53:46Z",
+          "channelId": "UCMzfz8WBn4vWCDxe-d3ahyA",
+          "title": "Bát Nhã Tâm Kinh (21 biến)-Thích Trí Thoát tụng",
+          "description": "Ma Ha Bát Nhã Ba La Mật Đa Tâm Kinh. Quán-Tự-Tại Bồ-Tát hành thâm Bát-nhã Ba-la-mật-đa thời, chiếu kiến ngũ-uẩn giai không, độ nhất thiết khổ ách.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZgdjRJVPsmQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZgdjRJVPsmQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZgdjRJVPsmQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ThichGiacMan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-04-08T01:53:46Z"
+        }
+      }
+    ]
+  }
+  

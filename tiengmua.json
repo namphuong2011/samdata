@@ -1,0 +1,693 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "MeeQw16MsaM6ZuFU4UOuc3b3XFk",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 191171,
+      "resultsPerPage": 20
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W100e24aHkod4iO-I0yQfBfmCDw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G7e7ZYlaPdo"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-26T12:23:48Z",
+          "channelId": "UCktrTiClSaJQmyg5QsTxTag",
+          "title": "Tiếng Mưa Rơi + Sấm Sét. Liều Thuốc Ngủ Tự Nhiên",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G7e7ZYlaPdo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G7e7ZYlaPdo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G7e7ZYlaPdo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pháp Phật Vô Biên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-26T12:23:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lr4bj1JFMbmIwmh7H96f7R6fbdk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vqnBBzYn_yQ"
+        },
+        "snippet": {
+          "publishedAt": "2017-02-23T15:34:50Z",
+          "channelId": "UCHlFK0SOwRuMmULjOXY9nxw",
+          "title": "[ Ngủ Cực Ngon ] với âm thanh tiếng mưa rơi và sấm sét | NHƯ THẬT 100%「 Nhạc thư giãn 」",
+          "description": "Đăng ký kênh Youtube mới của Admin: https://www.youtube.com/channel/UCz7ECGESFID2vA35tVJvPrQ ---------------------------------------------------------------- Âm ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vqnBBzYn_yQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vqnBBzYn_yQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vqnBBzYn_yQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thư Giãn - Tiếng Ồn Trắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-02-23T15:34:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cEqixLtqV1wzhR26LAHV-bujhgM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zYE8Eh4AiGo"
+        },
+        "snippet": {
+          "publishedAt": "2020-08-23T04:02:30Z",
+          "channelId": "UCX9hUAOdN7DsKbQUQF1HcHQ",
+          "title": "Âm Thanh Dễ Ngủ Tiếng Mưa Rơi Và Tiếng Sấm Sét Chữa Bệnh Khó Ngủ Và Rối Loạn Giấc Ngủ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zYE8Eh4AiGo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zYE8Eh4AiGo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zYE8Eh4AiGo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jerry Vlogs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-08-23T04:02:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MKs8aubRocN3hzsJt9e_PuXl5Fk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kX51hSGDKN8"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-04T04:37:11Z",
+          "channelId": "UCjWs0uDh7mZqpAi9WA2JVPQ",
+          "title": "Ngủ Cực Ngon cực đã  với âm thanh tiếng mưa rơi và sấm sét   NHƯ THẬT 100%「 Nhạc thư giãn 」",
+          "description": "Quảng Nam Ngày Mới.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kX51hSGDKN8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kX51hSGDKN8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kX51hSGDKN8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nguyễn Trung Hiếu Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-04T04:37:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "drLxft0G7--0wdk8J0hFKLoXLuw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QO3E-NeGR3w"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-13T13:43:47Z",
+          "channelId": "UCHlFK0SOwRuMmULjOXY9nxw",
+          "title": "[ Mạnh hơn cả thuốc ngủ ] tiếng mưa rào rơi trên mái nhà | Ngủ cực ngon 「 Nhạc thư giãn 」",
+          "description": "[ Mạnh hơn cả thuốc ngủ ] tiếng mưa rào rơi trên mái nhà | Ngủ cực ngon 「 Nhạc thư giãn 」 https://youtu.be/QO3E-NeGR3w ▷ Hãy Đăng ký kênh Youtube của ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QO3E-NeGR3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QO3E-NeGR3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QO3E-NeGR3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thư Giãn - Tiếng Ồn Trắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-13T13:43:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hV5OwnAsMW4H7p0rpvQji6Q7-yI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sxE6fkjnxmY"
+        },
+        "snippet": {
+          "publishedAt": "2021-03-30T07:28:36Z",
+          "channelId": "UCVIqa_Ja5KMUhqnnPtixi4Q",
+          "title": "Tiếng mưa rơi sấm sét giúp dễ ngủ (âm thanh thưgiãn giúp bạn chìm sâu vào giấc ngủ) !",
+          "description": "Tiếng mưa rơi sấm sét giúp dễ ngủ (âm thanh thưgiãn giúp bạn chìm sâu vào giấc ngủ) ! Không phải bỗng nhiên mà rất nhiều người thích tiết trời mưa, khi đó ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sxE6fkjnxmY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sxE6fkjnxmY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sxE6fkjnxmY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chè Thập Cẩm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-03-30T07:28:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8z_f1fobr1sksbo3GvSgpENwkMU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oSDhAdak8v4"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-04T13:54:12Z",
+          "channelId": "UCHlFK0SOwRuMmULjOXY9nxw",
+          "title": "[ Nghe tê hết cả người ] Tiếng Mưa và Sấm Sét trên Thành Phố cực sướng「 Nhạc thư giãn 」",
+          "description": "Đăng ký kênh Youtube mới của Ad: https://www.youtube.com/channel/UCz7ECGESFID2vA35tVJvPrQ?sub_confirmation=1 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oSDhAdak8v4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oSDhAdak8v4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oSDhAdak8v4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thư Giãn - Tiếng Ồn Trắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-04T13:54:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kCoS9e2wwXbxtEFuhv0t4wranLw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ISY8jYeqHmU"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-01T21:46:09Z",
+          "channelId": "UCwMhfUtEHKCsDoryvDKcwZQ",
+          "title": "Ngủ Ngon với âm thanh tiếng mưa rơi và sấm sét | NHƯ THẬT 100%「 Nhạc thư giãn 」",
+          "description": "Âm thanh tiếng mưa rơi và sấm sét NHƯ THẬT 100% Đây là 3 giờ thư giãn với tiếng mưa rơi và sấm sét cực mạnh y như trời mưa thật. Khi bạn đang gặp mệt ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ISY8jYeqHmU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ISY8jYeqHmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ISY8jYeqHmU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MrSunni",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-01T21:46:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Aazdis1RWbS7oPNGb-Ri4GD-xH8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "f-rLbdxM-ik"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-02T02:59:26Z",
+          "channelId": "UCfgRJPJuNKOypEsWeHVKesg",
+          "title": "Thư giãn với tiếng mưa và tiếng sấm dễ ngủ",
+          "description": "nhạc thư giãn dễ ngủ với tiếng mưa rơi.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f-rLbdxM-ik/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f-rLbdxM-ik/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f-rLbdxM-ik/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Music On Soul",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-02T02:59:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FNIx_lv7bFMbwU8kvtOHZ39lOmk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mkryj7JjQ0k"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-31T10:36:14Z",
+          "channelId": "UC2lasCDVII4N6vYHb4-suvw",
+          "title": "[NGỦ NGON] Nghe tiếng mưa đêm và sấm chớp, giúp cho bạn có cảm giác ấm áp và có giấc ngủ ngon hơn.",
+          "description": "Mưa day dứt len vào từng góc tối Mưa buồn thương hờn dỗi với thời gian Giọt tương tư giọt nhung nhớ tuôn tràn Sầu lắng đọng chờ tàn cơn giông bão.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mkryj7JjQ0k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mkryj7JjQ0k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mkryj7JjQ0k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vô Thường",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-31T10:36:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oqwissQw-fRXugHNZ5b52CX5ymc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ww6ztHcV-CQ"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-05T19:11:07Z",
+          "channelId": "UCyacvJ-I37GcXCBjXdKqD6w",
+          "title": "Tiếng mưa bão sấm chớp cùng với tiếng sóng biển Bao ngủ ngon Sound of rain thunderstorns to sleep",
+          "description": "Tiếng mưa,bão,sấm chớp cùng với tiếng sóng biển -6.5H FULL HD-Ngủ ngon quên trời đất luôn-sound of rain thunderstorns to sleep #tiengmuatunhien ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ww6ztHcV-CQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ww6ztHcV-CQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ww6ztHcV-CQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sơn KaTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-05T19:11:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "psWcsSB9-Bv91TYoPvWQucGr5PI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MmaQjpv2M68"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-19T13:00:19Z",
+          "channelId": "UCVWoiF-yHlD0vQbcaLZP9Tw",
+          "title": "&quot;Ngủ Sâu&quot; Tiếng Mưa Rơi Nhẹ Nhàng và Sấm Sét Dễ Ngủ, Tiếng ồn trắng Tập Trung, Học Tập, Thư Giãn",
+          "description": "\"Ngủ Sâu\" Tiếng Mưa Rơi Nhẹ Nhàng và Sấm Sét Dễ Ngủ, Tiếng ồn trắng Tập Trung, Học Tập, Thư Giãn Tiếng mưa rơi, Tiếng ồn trắng 1 giờ là nhạc ru ngủ, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MmaQjpv2M68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MmaQjpv2M68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MmaQjpv2M68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Child of Nature",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-19T13:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iCvV_wuDMMDgDiVSbgoS5LlFwZs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hBzhKXAvMnw"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-15T13:32:47Z",
+          "channelId": "UCHlFK0SOwRuMmULjOXY9nxw",
+          "title": "[ Tuyệt đỉnh ngủ ngon ] tiếng mưa và sấm, gió giật cực mạnh | NHƯ THẬT「 Nhạc thư giãn 」",
+          "description": "Đăng ký kênh Youtube mới của Ad: https://www.youtube.com/channel/UCz7ECGESFID2vA35tVJvPrQ?sub_confirmation=1 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hBzhKXAvMnw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hBzhKXAvMnw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hBzhKXAvMnw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thư Giãn - Tiếng Ồn Trắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-15T13:32:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IYBK6qjUlJBYR7EkAF7vhue77jc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RWL3LuzmbTo"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-02T17:11:34Z",
+          "channelId": "UCfqyMkqaHvTe05Duwff2PhA",
+          "title": "[ Ngủ Thật Ngon ] - Nghe thử đi - [ Tiếng Mưa Rơi &amp; Sấm Chóp Trên Mái Nhà ]",
+          "description": "TiếngMưaRơi #TiếngMưaRơiVàSấmChópTrênMáiNhà [ Ngủ Thật Ngon ] - Nghe thử đi - [ Tiếng Mưa Rơi & Sấm Chóp Trên Mái Nhà ] giúp bạn dễ ngủ hơn và ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RWL3LuzmbTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RWL3LuzmbTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RWL3LuzmbTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thế Trung Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-02T17:11:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hb0W2aE5EqJs2TRxJSKpT6EqG6A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5JOADZnVteY"
+        },
+        "snippet": {
+          "publishedAt": "2020-03-21T19:13:01Z",
+          "channelId": "UCj4KdgILTBAz-aVq2DAk9ew",
+          "title": "Tiếng mưa rơi và tiếng gió và sấm",
+          "description": "Chúc mọi người ngủ ngon.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5JOADZnVteY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5JOADZnVteY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5JOADZnVteY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Huỳnh Phú Trạng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-03-21T19:13:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8ONxzH-G2BUk-8f0JzPPCXjJIUs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3ufUj_wehg0"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-10T12:07:53Z",
+          "channelId": "UCVIqa_Ja5KMUhqnnPtixi4Q",
+          "title": "Tiếng mua rơi sấm sét thư dãn dễ ngủ -Sound of rain",
+          "description": "Tiếng mưa rơi sấm sét thư dãn giúp dễ ngủ -Sound of rain.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3ufUj_wehg0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3ufUj_wehg0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3ufUj_wehg0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chè Thập Cẩm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-10T12:07:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OPbFuwDUulIREh6Z8-qucPdCF1c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "74b3Zb18UDM"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-13T19:00:00Z",
+          "channelId": "UCycNWQoqcSzsQsF3R8P-pFg",
+          "title": "Go to Sleep with Thunder &amp; Rain Sounds | Relaxing Sounds for Insomnia Symptoms &amp; Sleeping Disorders",
+          "description": "Go to sleep with thunder and rain sounds. Relaxing sounds for insomnia symptoms and sleeping disorders. Fall asleep faster and stay asleep longer with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/74b3Zb18UDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/74b3Zb18UDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/74b3Zb18UDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stardust Vibes - Relaxing Sounds",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-13T19:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tFJVBxWpHuAV7gQ36RItCtH8Kx0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g6xKnfmbhEI"
+        },
+        "snippet": {
+          "publishedAt": "2021-07-20T12:22:42Z",
+          "channelId": "UCHlFK0SOwRuMmULjOXY9nxw",
+          "title": "[ Ngủ Cực Ngon ] với âm thanh tiếng mưa rơi và sấm sét「 Nhạc thư giãn 」",
+          "description": "[ Ngủ Cực Ngon ] với âm thanh tiếng mưa rơi và sấm sét「 Nhạc thư giãn 」 https://youtu.be/g6xKnfmbhEI ▷ Hãy Đăng Ký Kênh Youtube Của Tôi: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g6xKnfmbhEI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g6xKnfmbhEI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g6xKnfmbhEI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nhạc Thư Giãn - Tiếng Ồn Trắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-07-20T12:22:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JBGU2rUKvIu8CQ2DUXRXRj9BBKE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QKJ33LIxR6M"
+        },
+        "snippet": {
+          "publishedAt": "2017-07-20T02:31:09Z",
+          "channelId": "UChlmeEHB34MOI3A750k9nVg",
+          "title": "[Cho giấc ngủ thật sâu]- Tiếng mưa rơi - sấm sét",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QKJ33LIxR6M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QKJ33LIxR6M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QKJ33LIxR6M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Huy Doan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-07-20T02:31:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vBTe4-7H9tugYrdL5WahfODKmZE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLrDYgKmmpUodGAoUysmxVdd1xoFTRaXVG"
+        },
+        "snippet": {
+          "publishedAt": "2021-07-14T20:01:13Z",
+          "channelId": "UCDAfUkheXOiifyxCEMHPorQ",
+          "title": "Ngủ ngon với Tiếng mưa rơi nhẹ và sấm sét . Nghe Tiếng mưa rơi dễ dàng đi vào giấc ngủ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pKSasttLGZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pKSasttLGZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pKSasttLGZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ngủ Cùng Tiếng Mưa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-07-14T20:01:13Z"
+        }
+      }
+    ]
+  }
+  
