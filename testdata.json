@@ -10,7 +10,7 @@
         {
           "header": "An lạc từng bước dừng chân - Thích Nhất Hạnh",
           "values":[
-  {"value":"https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=l%E1%BA%A1c+t%E1%BB%ABng+b%C6%B0%E1%BB%9Bc+d%E1%BB%ABng+ch%C3%A2n%7CTh%C3%ADch+Nh%E1%BA%A5t+H%E1%BA%A1nh&type=video&videoDuration=long&key=AIzaSyCwgNU_LTJuiuAio6aaS5HVgq4FZ2VV7_k"}
+  {"value":"https://raw.githubusercontent.com/namphuong2011/samdata/master/anlac.json"}
 
           ]
         },
